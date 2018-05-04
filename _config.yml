@@ -7,19 +7,19 @@ repository: https://github.com/jamiesmith/jamiesmith
 timezone: America/New_York
 twitter:
   username: jamiesmithnc
-logo: "/img/logo-2x.png"
+logo: "{{site.baseurl}}/img/logo-2x.png"
 # google_analytics_id: UA-50755011-1
 # google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 excerpt_separator: "<!--more-->"
 collections:
   docs:
-    permalink: "/:collection/:path/"
+    permalink: "{{site.baseurl}}/:collection/:path/"
     output: true
   links:
-    permalink: "/:collection/:path/"
+    permalink: "{{site.baseurl}}/:collection/:path/"
     output: true
   posts:
-    permalink: "/blog/:year/:month/:day/:title/"
+    permalink: "{{site.baseurl}}/blog/:year/:month/:day/:title/"
     output: true
 defaults:
 - scope:
@@ -37,7 +37,7 @@ defaults:
     type: posts
   values:
     layout: blog_item
-    image: "/img/twitter-card.png"
+    image: "{{site.baseurl}}/img/twitter-card.png"
 plugins:
 - jekyll-avatar
 - jekyll-feed
