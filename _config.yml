@@ -2,7 +2,7 @@
 version: 1.0.0
 name: Jamie Smith • Gadget-Loving father of girls
 description: Transform your plain text into static websites and blogs
-url: http://grandelatte.com
+# url: http://grandelatte.com
 repository: https://github.com/jamiesmith/jamiesmith
 timezone: America/New_York
 twitter:
