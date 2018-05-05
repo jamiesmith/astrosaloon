@@ -4,22 +4,32 @@
       <li class="{% if page.title == 'Blog' %}current{% endif %}">
         <a href="{{site.baseurl}}/blog/">All Blogs</a>
       </li>
-      <li class="{% if page.title == 'Releases' %}current{% endif %}">
-        <a href="{{site.baseurl}}/blog/releases/">Jekyll Releases</a>
-      </li>
     </ul>
-    <h4>Recent Releases</h4>
+
+    <h4>Astrophotography</h4>
     <ul>
-      {% for post in site.categories.release limit:5 %}
+      {% for post in site.categories.astrophotography limit:5 %}
       <li class="{% if page.title == post.title %}current{% endif %}">
-        <a href="{{ post.url }}">Version {{ post.version }}</a>
+          <a href="{{ post.url }}">{{ post.title }}</a>
       </li>
       {% endfor %}
     </ul>
-    <h4>Other News</h4>
+
+    <h4>Gadgets</h4>
+    <ul>
+      {% for post in site.categories.gadgets limit:5 %}
+      <li class="{% if page.title == post.title %}current{% endif %}">
+          <a href="{{ post.url }}">{{ post.title }}</a>
+      </li>
+      {% endfor %}
+    </ul>
+
+    <h4>Other Topics</h4>
     <ul>
         {% for post in site.posts %}
-        {% unless post.categories contains 'release' %}
+        {% unless post.categories contains 'astrophotography' 
+            || post.categories contains 'gadgets'        
+          %}
         <li class="{% if page.title == post.title %}current{% endif %}">
           <a href="{{ post.url }}">{{ post.title }}</a>
         </li>

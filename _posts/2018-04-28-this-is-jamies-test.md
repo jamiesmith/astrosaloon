@@ -2,7 +2,7 @@
 title: "This is only a test"
 date: 2018-04-28 10:00:00
 author: jamiesmith
-categories: [samplestuff]
+categories: [astrophotography]
 ---
 
 Aloha Jekyllers!! :wave:
