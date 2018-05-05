@@ -1,7 +1,7 @@
 ---
 version: 1.0.0
-name: Jamie Smith • Gadget-Loving father of girls
-description: Transform your plain text into static websites and blogs
+name: Jamie Smith
+description: Gadget-Loving father of girls
 # url: http://grandelatte.com
 repository: https://github.com/jamiesmith/jamiesmith
 timezone: America/New_York
@@ -54,4 +54,5 @@ exclude:
 - icomoon-selection.json
 - readme.md
 # remote_theme: jamiesmith/jekyllstheme
+service_worker: false # Will turn off the service worker if set to false
 

@@ -2,9 +2,10 @@
   docs:
   - home
   - quickstart
+  - site-todo-list
 
 - title: Some Tutorials
   docs:
-  - this-is-another-tut
+  - what-are-tutorials
   - this-is-a-tut
   
