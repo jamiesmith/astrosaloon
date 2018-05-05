@@ -16,4 +16,6 @@ permalink: /docs/site-todo-list/
 - fix the `sw.js` thing
 - remove `jekyll releases` links
 - https for CNAME domain
+- alter the front page, looks too jekyll-y
+- where the hell is search looking??
 
