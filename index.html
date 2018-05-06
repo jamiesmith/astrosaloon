@@ -32,36 +32,13 @@ overview: true
     <div class="unit one-third">
       <h2>Everything Else</h2>
       <p>
-        Things that just don't fit somewhere else
+        Things that just don't fit somewhere else.  Announcements for new docs, woodworking, etc.
       </p>
-      <a href="{{site.baseurl}}/docs">Bits & Bobs &rarr;</a>
+      <a href="{{site.baseurl}}/blogs">Bits & Bobs &rarr;</a>
     </div>
     <div class="clear"></div>
   </div>
 </section>
-<!-- <section class="recent-posts">
-  <div class="grid">
-    <div class="unit whole">
-      <div class="grid pane">
-        <div class="unit whole center-on-mobiles">
-          <div class="pane-content">
-            <h3 class="center-on-mobiles">Recent Posts</h3>
-            <p>
-            {% for post in site.posts %}
-              {% include blog_item.html %}
-            {% endfor %}
-            
-            </p>
-            <a href="https://pages.github.com/">More recent posts &rarr;</a>
-          </div>
-        </div>
-        <div class="clear"></div>
-      </div>
-    </div>
-  </div>
-</section>
--->
-
 <section class="quickstart">
   <div class="grid">
     <div class="unit golden-small center-on-mobiles"><br/>
@@ -99,5 +76,26 @@ overview: true
       </div>
     </div>
     <div class="clear"></div>
+  </div>
+</section>
+<section class="recent-posts">
+  <div class="grid">
+    <div class="unit whole">
+      <div class="grid pane">
+        <div class="unit whole center-on-mobiles">
+          <div class="pane-content">
+            <h3 class="center-on-mobiles">Recent Posts</h3>
+            <p>
+            {% for post in site.posts %}
+              {% include blog_item.html %}
+            {% endfor %}
+
+            </p>
+            <a href="{{site.baseurl}}/blogs">More recent posts &rarr;</a>
+          </div>
+        </div>
+        <div class="clear"></div>
+      </div>
+    </div>
   </div>
 </section>
