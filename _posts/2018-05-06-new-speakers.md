@@ -6,7 +6,8 @@ categories: [ gadgets]
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
 eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
-![My Little Friend]({{ "/assets/subdir/parrot.jpg" | absolute_url }})
+
+{% include image.html url="/assets/parrot.jpg" description="My new friend and I at a dog event, about a dozen years ago.  I researched tropical birds for a couple weeks after.  My wife said no :frowning:" %}
 
 <!--more-->
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula

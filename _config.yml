@@ -12,6 +12,9 @@ logo: "{{site.baseurl}}/img/logo-2x.png"
 # google_site_verification: onQcXpAvtHBrUI5LlroHNE_FP0b2qvFyPq7VZw36iEY
 excerpt_separator: "<!--more-->"
 collections:
+  about:
+    permalink: "{{site.baseurl}}/:collection/:path/"
+    output: true
   docs:
     permalink: "{{site.baseurl}}/:collection/:path/"
     output: true
@@ -27,6 +30,11 @@ defaults:
     type: docs
   values:
     layout: docs
+- scope:
+    path: _about
+    type: about
+  values:
+    layout: about
 - scope:
     path: _links
     type: links
