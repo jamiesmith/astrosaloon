@@ -1,11 +1,10 @@
 - title: Intro
   docs:
   - home
-  - about-jamie
-  - quickstart
 
 - title: Some Tutorials
   docs:
   - what-are-tutorials
   - this-is-a-tut
+  - docker-on-ubuntu
   
