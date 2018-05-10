@@ -8,3 +8,19 @@ $sans-serif: "Fira Sans", sans-serif !default;
 
 @import "minimal-mistakes/skins/{{ site.minimal_mistakes_skin | default: 'default' }}"; // skin
 @import "minimal-mistakes"; // main partials
+
+
+.toc {
+  .nav__title {
+    color: #333;
+  }
+}
+
+.navicon {
+  background: $navicon-link-color-hover;
+
+  &:before,
+  &:after {
+    background: $navicon-link-color-hover;
+  }
+}
