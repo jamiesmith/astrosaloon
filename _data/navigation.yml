@@ -42,8 +42,6 @@ docs:
         url: /docs/structure/
       - title: "Installation"
         url: /docs/installation/
-      - title: "Upgrading"
-        url: /docs/upgrading/
   - title: Customization
     children:
       - title: "Configuration"
@@ -84,8 +82,6 @@ docs:
         url: /docs/contributing/
       - title: "Old 2.2 Docs"
         url: /docs/docs-2-2/
-      - title: "License"
-        url: /docs/license/
       - title: "Terms &amp; Privacy Policy"
         url: /terms/
 
