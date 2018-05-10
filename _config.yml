@@ -15,7 +15,7 @@ title                    : "GrandeLatte"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
 description              : &description "Thoughts, musings, and experiences from a gadget-loving father of girls."
-url                      : http://jamiesmith.github.io 
+url                      : http://blog.grandelatte.com 
 baseurl                  : 
 repository               : "mmistakes/minimal-mistakes"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
