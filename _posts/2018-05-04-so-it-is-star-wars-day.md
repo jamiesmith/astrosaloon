@@ -9,4 +9,4 @@ Another day, another post!! :smile:
 
 Still just trying to learn
 
-![My Milky Way]({{ "/assets/h-mw-small.jpg" | absolute_url }})
+![My Milky Way]({{ "/assets/images/h-mw-small.jpg" | absolute_url }})

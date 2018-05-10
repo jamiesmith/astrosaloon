@@ -7,7 +7,7 @@ categories: [ gadgets]
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
 eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient
 
-{% include image.html url="/assets/parrot.jpg" description="My new friend and I at a dog event, about a dozen years ago.  I researched tropical birds for a couple weeks after.  My wife said no :frowning:" %}
+{% include image.html url="/assets/images/parrot.jpg" description="My new friend and I at a dog event, about a dozen years ago.  I researched tropical birds for a couple weeks after.  My wife said no :frowning:" %}
 
 <!--more-->
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
