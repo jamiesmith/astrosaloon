@@ -5,7 +5,7 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Thoughts, musings, and experiences from a gadget-loving father of girls<br />'
+excerpt: 'Thoughts, musings, and experiences from a gadget-loving father of girls<br /> **WARNING**: nothing works yet'
 
 feature_row:
   - image_path: /assets/images/horizontal-mw-teaser.jpg
