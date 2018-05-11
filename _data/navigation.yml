@@ -24,12 +24,12 @@ main:
     url: http://www.grandelatte.com
   - title: "About"
     url: /about/
+  - title: "Posts"
+    url: /year-archive/
+  - title: "Collections"
+    url: /collection-archive/
   - title: "Quick-Start Guide"
     url: https://mmistakes.github.io/minimal-mistakes/
-  - title: "Sample Posts"
-    url: /year-archive/
-  - title: "Sample Collections"
-    url: /collection-archive/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
