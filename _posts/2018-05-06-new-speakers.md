@@ -3,6 +3,8 @@ title: "New Speakers!"
 date: 2018-05-06 17:41:00
 author: jamiesmith
 categories: [ gadgets]
+header:
+  teaser: /assets/images/parrot.jpg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
 eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient

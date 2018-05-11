@@ -3,6 +3,8 @@ title: "this is another new blog"
 date: 2018-05-06 17:40:00
 author: jamiesmith
 categories: [ gadgets]
+header:
+  teaser: /assets/images/horizontal-mw-teaser.jpg
 ---
 Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Aenean commodo ligula
 eget dolor. Aenean massa. Cum sociis natoque penatibus et magnis dis parturient

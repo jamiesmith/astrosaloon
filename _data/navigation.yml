@@ -29,7 +29,7 @@ main:
   - title: "Collections"
     url: /collection-archive/
   - title: "Quick-Start Guide"
-    url: https://mmistakes.github.io/minimal-mistakes/
+    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
 
