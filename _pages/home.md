@@ -22,7 +22,7 @@ feature_row:
     url: "/docs/layouts/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-  - image_path: /assets/images/mm-free-feature.png
+  - image_path: /assets/images/vertical_mw_clone_thumb.jpg
     alt: "Everything Else"
     title: "Everything Else"
     excerpt: "Things that just don't fit somewhere else. Announcements for new docs, woodworking, etc."

@@ -17,12 +17,12 @@ name                     : &name "Jamie Smith" # &name is a YAML anchor which ca
 description              : &description "Thoughts, musings, and experiences from a gadget-loving father of girls."
 url                      : http://blog.grandelatte.com 
 baseurl                  : 
-repository               : "mmistakes/minimal-mistakes"
+repository               : "jamiesmith/jamiesmith"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-# breadcrumbs            : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
 comments:
-  provider               : "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman" "custom"
+  provider               : false # "staticman_v2" # false (default), "disqus", "discourse", "facebook", "google-plus", "staticman_v2", "staticman" "custom"
   disqus:
     shortname            :
   discourse:
@@ -57,7 +57,7 @@ atom_feed:
 
 search                   : true # true, false (default)
 search_full_content      : true # true, false (default)
-search_provider          : algolia # lunr (default), algolia
+search_provider          : lunr # algolia # lunr (default), algolia
 algolia:
   application_id         : QB6HVGBSBA # YOUR_APPLICATION_ID
   index_name             : minimal_mistakes # YOUR_INDEX_NAME
