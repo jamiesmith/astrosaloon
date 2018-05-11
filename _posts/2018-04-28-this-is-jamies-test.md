@@ -9,7 +9,7 @@ Aloha Jekyllers!! :wave:
 
 Once upon a midnight dreary, while I pondered, weak and weary. Over many a quaint and curious volume of forgotten lore. While I nodded, nearly napping, suddenly there came a tapping. As of some one gently rapping, rapping at my chamber door. 'Tis some visiter, I muttered, tapping at my chamber door.
 
-{% include figure image_path="/assets/images/h-mw-small.jpg" alt="My Milky Way" caption="Picture of part of the milky way" %}
+![My Milky Way]({{ "/assets/images/h-mw-small.jpg" | absolute_url }})
 
 <!--more-->
 
