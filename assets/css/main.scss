@@ -28,3 +28,50 @@ $sans-serif: "Fira Sans", sans-serif !default;
 figcaption {
   font-style: italic;
 }
+
+
+
+/* ==========================================================================
+   MASTHEAD
+   ========================================================================== */
+
+.masthead {
+  border-bottom: 0px solid $border-color;
+  background-color: $darker-background-color;
+
+  &__inner-wrap {
+    background-color: $darker-background-color;
+  }
+}
+
+.site-title {
+  background-color: $darker-background-color;
+  
+}
+
+.greedy-nav {
+  background-color: $darker-background-color;
+}
+
+.masthead__menu {
+  background-color: $darker-background-color;
+  
+
+  .site-nav {
+    background-color: $darker-background-color;
+
+    @include breakpoint($small) {
+      background-color: $darker-background-color;
+      
+      float: right;
+    }
+  }
+
+  ul {
+    background-color: $darker-background-color;
+  }
+}
+
+.masthead__menu-item {
+  background-color: $darker-background-color;
+}
