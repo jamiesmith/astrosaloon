@@ -20,20 +20,18 @@ foo:
 
 # main links
 main:
-  - title: "Links ↗"
-    url: http://www.grandelatte.com
-    target: "_blank"
-  - title: "About"
-    url: /about/
   - title: "Posts"
     url: /year-archive/
-  - title: "Collections"
+  - title: "Tags"
+    url: /tags/
+  - title: "All Notes"
     url: /collection-archive/
-  - title: "Quick-Start Guide ↗"
-    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
-    target: "_blank"
+  - title: "About"
+    url: /about/
   - title: "Terms &amp; Privacy Policy"
     url: /terms/
+  - title: "Links ↗"
+    url: http://www.grandelatte.com
 
 
 # documentation links

@@ -1,25 +1,80 @@
 ---
 permalink: /about/
-title: "About Jamie"
-excerpt: "Software and Explaineer"
-layouts_gallery:
-  - url: /assets/images/mm-layout-splash.png
-    image_path: /assets/images/mm-layout-splash.png
-    alt: "splash layout example"
-  - url: /assets/images/mm-layout-single-meta.png
-    image_path: /assets/images/mm-layout-single-meta.png
-    alt: "single layout with comments and related posts"
-  - url: /assets/images/mm-layout-archive.png
-    image_path: /assets/images/mm-layout-archive.png
-    alt: "archive layout example"
-last_modified_at: 2018-05-10T08:41:35-04:00
+title: "About"
+excerpt: "Geek, Explaineer"
+ # layouts_gallery:
+ #   - url: /assets/images/mm-layout-splash.png
+ #     image_path: /assets/images/mm-layout-splash.png
+ #     alt: "splash layout example"
+ #   - url: /assets/images/mm-layout-single-meta.png
+ #     image_path: /assets/images/mm-layout-single-meta.png
+ #     alt: "single layout with comments and related posts"
+ #   - url: /assets/images/mm-layout-archive.png
+ #     image_path: /assets/images/mm-layout-archive.png
+ #     alt: "archive layout example"
+toc: true
+last_modified_at: 2018-05-25T08:41:35-04:00
 ---
 
-I guess that no personal blog site would be complete without a completely self-serving section on the author.  I know that you have been waiting, so __here it is__!
+## About this Site
 
-Hi, my name is Jamie Smith.  I have a long history in software consulting and
-sales.  One of my greatest skills is what I call *the art of efficiency*.  This
-isn't some self-help book with 47 steps to greatness-- more along the lines of
+This site focuses primarily on my endeavors in astrophotography-- equipment,
+process, software, and, of course, targets & images.  I reserve the right :wink: 
+to delve into other things that I find interesting, usually in the world of 
+home theater and electronics, home automation, and quite possibly powertools.  
+Posts will tagged appropriately so readers don't have to suffer through topics
+they aren't interested in.
+
+This site is very much a work in progress.  Really only the overall look is how
+I want it.  Most of the content is fake and generated, but I hope to address 
+that soon.  There is not yet a commenting system (which makes sense, since there
+is not really anything to comment _on_).  
+
+### Getting Around
+
+This site has a pretty simple layout - it's all static thanks to
+[jekyll](https://jekyllrb.com).  It should be fairly responsive. At the top you
+see a main navigation bar.  The top left corner has the site title which will
+always get you back to the root level.  Navigation is broken up into "posts" and
+"notes".
+
+Posts are like journal entries, happening at a point in time.  They will contain
+_tags_, which tell you the main topic.  I don't have the list of tags yet, but
+you can be sure that `astrophotography` and `image` will be in the mix.  You can
+find posts by either [date](/year-archive/) or by [tag](/tags/).
+
+Notes, on the other hand, are more "timeless".  These might be tutorials or
+little one-offs.  Full disclosure here - I won't know what goes where until I
+actually put up some content, but I _promise_ that I will update this doc when I
+do.  Unless I forget.
+
+### Minutia
+
+For hosting I leverage [GitHub Pages and Jekyll](https://help.github.com/articles/about-github-pages-and-jekyll/), 
+and use a somewhat tweaked version of the 
+[minimal-mistakes](https://github.com/mmistakes/minimal-mistakes) theme, with a dark color palette.
+
+If you'd like to see _what_ I've tweaked, you can always 
+[fork the repo](https://github.com/jamiesmith/jamiesmith).
+
+Some handy docs for the theme:
+
+- [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
+- [Sample Pages](https://mmistakes.github.io/minimal-mistakes/year-archive/)
+
+
+## About Jamie
+
+I guess that no personal blog site would be complete without a completely
+self-serving section on the author.  I know that you have been waiting, so
+__here it is__!
+
+Hi, my name is Jamie Smith.  I have a long history in software consulting.
+Somewhere along the line the powers-that-be realized that I was good in front of
+a whiteboard, and I was moved into a presales role, where I really started to
+shine.  I honed my communication and other talents.  One of my greatest skills
+is what I call *the art of efficiency*.  This isn't some self-help book with 47
+steps to greatness-- more along the lines of
 *enhanced laziness*. With this process I get things done as efficiently as
 humanly possible.  Do something once?  OK, fine.  Twice?  Take notes and make it
 repeatable.  Three or more times?  Write a script.

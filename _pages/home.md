@@ -5,13 +5,13 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Thoughts, musings, and experiences from a gadget-loving father of girls<br /> **WARNING**: nothing works yet'
+excerpt: 'Thoughts and musing on Astrophotography and Technology, from a gadget-loving father of girls<br /> **WARNING**: nothing works yet'
 
 feature_row:
   - image_path: /assets/images/horizontal-mw-teaser.jpg
     alt: "Home Theater"
     title: "Home Theater"
-    excerpt: "I am a gadget nut. I love researching products that I can't afford.  Even some that I can."
+    excerpt: "I am a gadget nut. Home automation, Audio/Video/Home theater, console gaming.  Pocket protector not included."
     url: "/docs/configuration/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
@@ -29,11 +29,13 @@ feature_row:
     url: "/docs/license/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
-github:
-  - excerpt: '{::nomarkdown}<iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=star&count=true&size=large" frameborder="0" scrolling="0" width="160px" height="30px"></iframe> <iframe style="display: inline-block;" src="https://ghbtns.com/github-btn.html?user=mmistakes&repo=minimal-mistakes&type=fork&count=true&size=large" frameborder="0" scrolling="0" width="158px" height="30px"></iframe>{:/nomarkdown}'
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; [<i class="fab fa-twitter"></i> @jamiesmithnc](https://twitter.com/jamiesmithnc){: .btn .btn--twitter} [<i class="fab fa-paypal"></i> Tip Me](https://paypal.me/jamiesmithnc){: .btn .btn--primary}'
+  - excerpt: 'Get notified when I add new stuff &nbsp; 
+  [<i class="fab fa-twitter"></i> @jamiesmithnc](https://twitter.com/jamiesmithnc){: .btn .btn--twitter} 
+  [<i class="fab fa-paypal"></i> Tip Me](https://paypal.me/jamiesmithnc){: .btn .btn--primary}'
 ---
+
 {% include feature_row id="intro" type="center" %}
 
 {% include feature_row %}
+
