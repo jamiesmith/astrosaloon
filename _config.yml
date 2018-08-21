@@ -11,11 +11,11 @@ minimal_mistakes_skin    : "jrs" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "GrandeLatte"
+title                    : "AstroSaloon"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
 description              : &description "Thoughts, musings, and experiences from a gadget-loving father of girls."
-url                      : http://blog.grandelatte.com 
+url                      : http://www.AstroSaloon.com 
 baseurl                  : 
 repository               : "jamiesmith/jamiesmith"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -104,8 +104,8 @@ author:
   bio              : "Software Architect/Explaineer/Bar Geek"
   location         : "Charlotte, NC"
   email            :
-  uri              : "https://grandelatte.com"
-  home             : "https://grandelatte.com"
+  uri              : "https://astrosaloon.com"
+  home             : "https://astrosaloon.com"
   bitbucket        :
   codepen          :
   dribbble         :
