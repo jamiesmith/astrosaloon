@@ -9,24 +9,24 @@ excerpt: 'Join us as we photograph the stars, drink booze, and listen to music.<
 
 feature_row:
   - image_path: /assets/images/horizontal-mw-teaser.jpg
-    alt: "Home Theater"
-    title: "Home Theater"
-    excerpt: "I am a gadget nut. Home automation, Audio/Video/Home theater, console gaming.  Pocket protector not included."
-    url: "/docs/configuration/"
+    alt: "Booze"
+    title: "Booze"
+    excerpt: "Here in the Astro Saloon we take our booze seriously.  Quality liquor, hand-carved clear ice, and generous pours"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/m31.jpg
     alt: "Astrophotography"
     title: "Astrophotography"
     excerpt: "Whether from my yard or our club's dark-sky site in Taxahaw, SC, here's where they go.  I'll get better."
-    url: "/docs/layouts/"
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
   - image_path: /assets/images/vertical_mw_clone_thumb.jpg
-    alt: "Everything Else"
-    title: "Everything Else"
-    excerpt: "Things that just don't fit somewhere else. Announcements for new docs, woodworking, etc."
-    url: "/docs/license/"
+    alt: "Music & More"
+    title: "Music & More"
+    excerpt: "A night under the stars goes well with some music.  Here you will find some of our favorites, including links when possible."
+    url: "/about/"
     btn_class: "btn--primary"
     btn_label: "Learn More"
 intro:

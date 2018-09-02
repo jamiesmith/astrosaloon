@@ -57,7 +57,7 @@ and use a somewhat tweaked version of the
 If you'd like to see _what_ I've tweaked, you can always 
 [fork the repo](https://github.com/jamiesmith/jamiesmith).
 
-Some handy docs for the theme:
+Some handy documents for the theme:
 
 - [Quick-Start Guide](https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/)
 - [Sample Pages](https://mmistakes.github.io/minimal-mistakes/year-archive/)
