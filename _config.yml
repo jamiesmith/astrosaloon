@@ -14,7 +14,7 @@ locale                   : "en-US"
 title                    : "AstroSaloon"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
-description              : &description "Thoughts, musings, and experiences from a gadget-loving father of girls."
+description              : &description "Join us as we photograph the stars, drink booze, and listen to music."
 url                      : http://www.AstroSaloon.com 
 baseurl                  : 
 repository               : "jamiesmith/jamiesmith"
@@ -195,7 +195,7 @@ collections:
   recipes:
     output: true
     permalink: /:collection/:path/
-  pets:
+  equipment:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -244,10 +244,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _pets
+  # _equipment
   - scope:
       path: ""
-      type: pets
+      type: equipment
     values:
       layout: single
       author_profile: true
