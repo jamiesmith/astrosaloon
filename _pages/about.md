@@ -18,7 +18,7 @@ last_modified_at: 2018-05-25T08:41:35-04:00
 
 ## About this Site
 
-This site focuses primarily on my endeavors in astrophotography-- equipment,
+This site focuses primarily on my endeavors in astrophotography-- gear,
 process, software, and, of course, targets & images.  I reserve the right :wink: 
 to delve into other things that I find interesting, usually in the world of 
 home theater and electronics, home automation, and quite possibly powertools.  

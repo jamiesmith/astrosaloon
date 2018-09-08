@@ -1,7 +1,7 @@
 ---
 title: "and then it began"
 author: jamiesmith
-tags: [ astronomy, equipment]
+tags: [ astronomy, gear]
 ---
 
 

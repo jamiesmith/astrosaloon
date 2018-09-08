@@ -11,7 +11,7 @@ minimal_mistakes_skin    : "jrs" # "air", "aqua", "contrast", "dark", "dirt", "n
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Astro Saloon"
+title                    : "AstroSaloon"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
 description              : &description "Join us as we photograph the stars, drink booze, and listen to music."
@@ -193,7 +193,7 @@ collections:
   docs:
     output: false
     permalink: /:collection/:path/
-  equipment:
+  gear:
     output: true
     permalink: /:collection/:path/
   portfolio:
@@ -242,10 +242,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _equipment
+  # _gear
   - scope:
       path: ""
-      type: equipment
+      type: gear
     values:
       layout: single
       author_profile: true
