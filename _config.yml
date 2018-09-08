@@ -74,7 +74,7 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : &twitter "jamiesmithnc"
+  username               : &twitter "astrosaloon"
 facebook:
   username               : &facebook "jamiesmithnc"
   app_id                 :
@@ -86,6 +86,7 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
+    - "https://twitter.com/astrosaloon"
     - "https://twitter.com/jamiesmithnc"
     - "https://facebook.com/jamiesmithnc"
 
@@ -116,7 +117,7 @@ author:
   gitlab           :
   google_plus      :
   keybase          :
-  instagram        : "jamiesmithnc"
+  instagram        : "AstroSaloon"
   lastfm           :
   linkedin         :
   pinterest        :
