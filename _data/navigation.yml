@@ -23,7 +23,7 @@ main:
   - title: "Posts"
     url: /year-archive/
   - title: "Tags"
-    url: /tags/d
+    url: /tags/
   - title: "All Notes"
     url: /collection-archive/
   - title: "About"
