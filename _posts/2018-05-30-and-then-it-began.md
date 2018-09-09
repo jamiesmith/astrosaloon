@@ -5,7 +5,7 @@ tags: [ astronomy, gear]
 ---
 
 
-I got into astronomy way back in 2004 when I bought a Meade ETX-90 (which, astonishingly, [they still make](https://smile.amazon.com/Meade-Instruments-Maksutov-Cassegrain-Telescope-205004/dp/B01CPW0A8M/ref=sr_1_3?ie=UTF8&qid=1527713676&sr=8-3&keywords=meade+etx-90)).  This was a _go-to_ scope, able to find things in the sky and automatically move to them.  It came with a tripod and a couple of eyepieces.  The plan was to get my feet wet, see some things, and hopefully take some pictures.
+I got into astronomy way back in 2004 when I bought a Meade ETX-90 (which, astonishingly, [they still make](https://amzn.to/2oSXHBO)).  This was a _go-to_ scope, able to find things in the sky and automatically move to them.  It came with a tripod and a couple of eyepieces.  The plan was to get my feet wet, see some things, and hopefully take some pictures.
 
 <!--more-->
 
