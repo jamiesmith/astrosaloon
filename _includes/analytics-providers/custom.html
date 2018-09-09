@@ -24,7 +24,7 @@ window.cookieconsent.initialise({
   m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
-  ga('create', '{{ site.analytics.google.tracking_id }}', 'auto');
+  ga('create', '{{ site.analytics.custom.tracking_id }}', 'auto');
   ga('set', 'anonymizeIp', {{ site.analytics.google.anonymize_ip | default: false }})
   ga('send', 'pageview');
 </script>
