@@ -92,8 +92,8 @@ social:
 
 # Analytics
 analytics:
-  provider               : google  # "google-universal" # false (default), "google", "google-universal", "custom"
-  google:
+  provider               : custom  # "google-universal" # false (default), "google", "google-universal", "custom"
+  custom:
      tracking_id          : "UA-118976681-1" # Replace this with your ID, or delete
      anonymize_ip         : true
 
