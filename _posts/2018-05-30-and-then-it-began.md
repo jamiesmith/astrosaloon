@@ -13,7 +13,7 @@ I got into astronomy way back in 2004 when I bought a Meade ETX-90 (which, aston
 {% 
   include figure image_path="/assets/images/horizontal-mw-teaser.jpg" 
   alt="First Milky Way image"
-  caption="As dumb as it sounds, this picture showed me that I _can_ do this." 
+  caption="As dumb as it sounds, this picture showed me that I __can__ do this." 
 %}
 
 We were able to see *some* things, but not many.  We saw Saturn, and could actually see that it had rings. We saw Jupiter, amazed at how fast the moons moved day to day.  Ultimately I sold the scope because it couldn't really do what I wanted.  Call it user error, call it a cheap mount, call it a bit of both.  It never really fit the bill.  Whatever we were able to see kind of danced all over the place in the eyepiece, and focusing was darned near impossible with the teeny single-speed focuser that moved the entire mount if you breathed on it.

@@ -7,4 +7,4 @@ entries_layout: grid
 classes: wide
 ---
 
-Sample document listing for the collection `_gear`.
+All of the pages tagged "gear".  I may still use some, I may not.  Nothing that pre-dates the blog is include in this set.  Feel free to reach out with questions!
