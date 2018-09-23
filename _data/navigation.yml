@@ -24,11 +24,11 @@ main:
     url: /year-archive/
   - title: "Tags"
     url: /tags/
-  - title: "All Notes"
+  - title: "Notes"
     url: /collection-archive/
   - title: "About"
     url: /about/
-  - title: "Terms &amp; Privacy Policy"
+  - title: "Terms &amp; Privacy"
     url: /terms/
   - title: "Links ↗"
     url: http://www.grandelatte.com

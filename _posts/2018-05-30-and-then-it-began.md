@@ -1,5 +1,5 @@
 ---
-title: "and then it began"
+title: "...and then it began"
 author: jamiesmith
 tags: [ astronomy, gear]
 header:
