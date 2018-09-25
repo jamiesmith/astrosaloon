@@ -1,7 +1,7 @@
 ---
 title: "...and then it began"
 author: jamiesmith
-tags: [ gear]
+tags: [ astrophotography, gear]
 header:
   teaser: /assets/images/horizontal-mw-teaser.jpg
 ---
