@@ -1,7 +1,7 @@
 ---
 title: "Celestron CPC Edge-HD"
 author: jamiesmith
-tags: [ astrophotography]
+tags: [ gear]
 header:
   teaser: /assets/images/cpc-2.jpg
 ---
