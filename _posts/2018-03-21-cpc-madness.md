@@ -3,7 +3,7 @@ title: "Celestron CPC Edge-HD"
 author: jamiesmith
 tags: [ astrophotography]
 header:
-  teaser: /assets/images/vertical_mw_clone.jpg
+  teaser: /assets/images/cpc-1.jpg
 ---
 
 Fast forward a few years... 
@@ -13,8 +13,8 @@ My second scope, purchased in 2012, was an [8" Celestron CPC Edge HD](https://am
 <!--more-->
 
 {% 
-  include figure image_path="/assets/images/vertical_mw_clone.jpg" 
-  alt="Another Milky Way image"
+  include figure image_path="/assets/images/cpc-2.jpg" 
+  alt="The business end of the CPC"
   caption="You are here ->" 
 %}
 
