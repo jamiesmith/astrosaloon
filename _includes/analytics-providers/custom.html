@@ -25,6 +25,6 @@ window.cookieconsent.initialise({
   })(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
 
   ga('create', '{{ site.analytics.custom.tracking_id }}', 'auto');
-  ga('set', 'anonymizeIp', {{ site.analytics.google.anonymize_ip | default: false }})
+  ga('set', 'anonymizeIp', {{ site.analytics.google.anonymize_ip | default: true }})
   ga('send', 'pageview');
 </script>
