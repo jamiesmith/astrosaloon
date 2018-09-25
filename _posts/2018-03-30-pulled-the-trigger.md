@@ -18,7 +18,7 @@ Like many aspiring astrophotographers, I had my dream setup planned out.  Like m
   caption="Out for Delivery" 
 %}
 
-Over the next few days I will go through a set of "unboxing posts" (not as much fun as videos, but hopefully informative none the less), along with a brief description of what other choices were on my radar and what "tipped the scales".  I researched and researched.  Analysis paralysis started setting in, and finally I made up my mind and pulled the trigger.  Where applicable, I will also let you know what stuff went back.
+Over the next couple of weeks ~days~ I will go through a set of "unboxing posts" (not as much fun as videos, but hopefully informative none the less), along with a brief description of what other choices were on my radar and what "tipped the scales".  I researched and researched.  Analysis paralysis started setting in, and finally I made up my mind and pulled the trigger.  Where applicable, I will also let you know what stuff went back.
 
 Keep in mind as you read these (if, in fact, anyone does) that I am really new to all of this.  I hope to catalog my journey, my progress, and my mistakes.  Hopefully as I go the former will start to outweigh the latter :wink:.
 
