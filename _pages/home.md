@@ -31,7 +31,7 @@ feature_row:
     btn_label: "Learn More"
 intro:
   - excerpt: 'Get notified when I add new stuff &nbsp; 
-  [<i class="fab fa-twitter"></i> @jamiesmithnc](https://twitter.com/jamiesmithnc){: .btn .btn--twitter} 
+  [<i class="fab fa-twitter"></i> @AstroSaloon](https://twitter.com/AstroSaloon){: .btn .btn--twitter} 
   [<i class="fab fa-paypal"></i> Tip Me](https://paypal.me/jamiesmithnc){: .btn .btn--primary}'
 ---
 
