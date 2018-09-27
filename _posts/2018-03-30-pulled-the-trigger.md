@@ -1,6 +1,5 @@
 ---
 title: "Pulled the trigger on the dream rig"
-author: jamiesmith
 tags: [ astrophotography, gear ]
 header:
   teaser: assets/images/unboxing/out-for-delivery.jpg 

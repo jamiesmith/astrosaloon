@@ -15,10 +15,10 @@ My second scope, purchased in 2012, was an [8" Celestron CPC Edge HD](https://am
 {% 
   include figure image_path="/assets/images/cpc-1.jpg" 
   alt="The business end of the CPC"
-  caption="You are here ->" 
+  caption="The business end of the CPC ->" 
 %}
 
-I actually had this 'scope for a few years.  It was used primarily for visual work, at which it did excel.  I did have the means to hook a camera up to it, but nothing really came from that.  This moon shot is probably the best that I had:
+I actually had this 'scope for a few years.  It was used primarily for visual work, at which it did excel.  I was able to hook a camera up to it at prime focus, but nothing really came from that.  This moon shot is probably the best that I had:
 
 {% 
   include figure image_path="https://cdn.astrobin.com/images/thumbs/cced13124e4fec43583a5a0aa8012eea.620x0_q100_watermark.jpg" 
@@ -37,4 +37,6 @@ Then, in 2017 I learned about the [Charlotte Amature Astronomy Club](http://www.
   caption="Birds-eye view of GHRO"
 %}
 
+
 THAT is when I started plotting...
+

@@ -1,0 +1,4 @@
+{%- for post in site.tags[include.taxonomy] -%}
+  {% include archive-single.html %}
+  <hr>
+{%- endfor -%}
