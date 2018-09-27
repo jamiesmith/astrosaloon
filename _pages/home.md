@@ -40,3 +40,6 @@ intro:
 
 {% include feature_row %}
 
+{%- for post in site.posts limit:7 -%}
+  {% include archive-single.html %}
+{%- endfor -%}

@@ -83,7 +83,7 @@ gallery_reducer:
 
 The next step in choosing the pieces of the imaging rig was the telescope itself.  
 
-Trying to follow the advice of the masses, my requirements for the 'scope were:
+Trying to follow the advice of the masses, my requirements for the telescope were:
 
 > Small(ish) refractor, preferably apochromatic, either with a flat field, or a flattener available.  Bonus points if the system allows threaded (vs compression) connections in the imaging train.
 
@@ -93,7 +93,7 @@ The "small(ish)" aspect generally refers to a refractor which is around 80mm, wh
 
 I also wanted solid, automated focusing.  My past couple of 'scopes had very troublesome focusers, though I had upgraded the focuser on the CPC to a [Feather Touch](http://starlightinstruments.com/store/index.php?route=product/product&product_id=244) which did make a *huge* difference-- the dual-speed focuser give you much finer control.  Automation, especially when using a mono camera, saves even more grief.
 
-# The 'Scope Choices
+# The Telescope Choices
 
 Here is a quick matrix of some specs for _some_ of the scopes I looked at- I can't find the original matrix, so going off of ones that I am **sure** were on it.
 
@@ -110,7 +110,7 @@ Here is a quick matrix of some specs for _some_ of the scopes I looked at- I can
 | iOptron      | [Versa 108 ED Apo](https://optcorp.com/products/ioptron-versa-108-ed-apochromatic-refractor-ota-6102) Apochromatic Refractor       | 108mm    | 660mm        |  f/6.1  |$1,248 |
 | Celestron    | [11" Rowe-Ackerman Schmidt Astrograph (RASA)](https://optcorp.com/products/celestron-11-rasa-rowe-ackermann-schmidt-astrograph-ota)| 279mm    | 620mm        |  f/2.2  |$3,599 ||                                  
 
-**Note**: Some 'scopes come in various configurations, so I included the price of the variation I was looking at, along with a link to find out more.
+**Note**: Some telescopes come in multiple configurations, so I included the price of the variation I was looking at, along with a link to find out more.
 {: .notice--primary}
 
 There were a few other brands that I looked at - things like Williams Optics, the Orion EON.  
@@ -121,14 +121,11 @@ It was really that way for most of the Stellarvues.  "Ooh, sorry, you just misse
 
 I had always heard about Tak's.  The build quality, the _optical_ quality, the scarcity.  
 
-{%
-  include figure image_path="https://media.giphy.com/media/TdwziQPhbNAzK/giphy.gif"
-  alt="Take my money"
-%}
+![image-right](https://media.giphy.com/media/TdwziQPhbNAzK/giphy.gif){: .align-right}
 
-As I am deciding, ready to really pull the trigger- funds in hand, I check on OPTCorp's site.  `In Stock`.  So I nabbed the FSQ-106EDXv4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
+Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site.  `In Stock`.  So I nabbed the FSQ-106EDXv4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
 
-The Tak has a HUGE image circle, and a mediocre focuser.  It looks very nice in my glass-door office cabinet, which is its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com).  
+The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser looks very nice in my glass-door office cabinet, which is now its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com).  
 
 {%
   include figure image_path="/assets/images/unboxing/nitecrawler-1.jpg"
@@ -145,7 +142,7 @@ The Tak has a HUGE image circle, and a mediocre focuser.  It looks very nice in 
 
 ## Takahashi Reducer QE 0.73x
 
-This actually ended up going back.  
+This did actually end up going back.  
 
 1. It was _not_ cheap (not that the other stuff was)
 2. I couldn't get definitive spacing on how to use it with the NiteCrawler
