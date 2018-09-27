@@ -142,7 +142,7 @@ The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser 
 
 ## Takahashi Reducer QE 0.73x
 
-This did actually end up going back.  
+This ended up going back.  
 
 1. It was _not_ cheap (not that the other stuff was)
 2. I couldn't get definitive spacing on how to use it with the NiteCrawler
