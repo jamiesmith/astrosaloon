@@ -1,6 +1,6 @@
 ---
 date: 2018-04-10
-title: "Takahashi FSQ-106EDXv4"
+title: "The Telescope: Takahashi FSQ-106EDXv4"
 tags: [ astrophotography, gear, unboxing ]
 classes: wide
 

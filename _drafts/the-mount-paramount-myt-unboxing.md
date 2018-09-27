@@ -1,6 +1,6 @@
 ---
 date: 2018-07-03
-title: "Paramount MyT"
+title: "The Mount: Paramount MyT"
 tags: [ astrophotography, gear, unboxing ]
 classes: wide
 
