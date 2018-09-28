@@ -46,7 +46,7 @@ gallery:
     title: Like a glove 
 ---
 
-As far as the filter wheel is concerned, the frontrunner was actually one by FLI, due to reports of some folks having trouble with Atik's EFW2, but when talking with Larry at OPT I learned that Atik released a new filterwheel, specifically for the the 16200, the EFW3, so that made the choice easy.  I was quite glad that he mentioned it, since it wasn't yet on OPT's website.  It's really good to have someone help you with this process!
+As far as the filter wheel is concerned, the frontrunner was actually one by FLI (I read several reports of folks having trouble with Atik's EFW2).  After talking with Larry at OPT I learned that Atik released a new filter wheel, specifically for the the 16200, the EFW3.  That made the choice easy.  I was quite glad that he mentioned it, since it wasn't yet on OPT's website.  It's really good to have someone help you with this process!
 
 <!--more-->
 
