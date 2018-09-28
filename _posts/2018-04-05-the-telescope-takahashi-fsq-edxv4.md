@@ -81,7 +81,7 @@ gallery_reducer:
 
 ---
 
-The next step in choosing the pieces of the imaging rig was the telescope itself.  
+This post goes over my my thoughts when selecting the telescope for my imaging rig.  
 
 Trying to follow the advice of the masses, my requirements for the telescope were:
 
@@ -91,9 +91,15 @@ Trying to follow the advice of the masses, my requirements for the telescope wer
 
 The "small(ish)" aspect generally refers to a refractor which is around 80mm, which is about 3". These refractors tend to have an f-ratio between f/5 and f/7.5, giving focal lengths in the neighborhood of 400mm to 600mm. _Apochromatic_ refers to the [design of the the telescope](https://en.wikipedia.org/wiki/Apochromat), and is geared for better correction of chromatic abberation (color fringing).   The "bonus" part isn't normally included in the recommendation - but if you try to make this happen I think that you will save yourself a good deal of headache later on-- minizing flexure in your imaging train up front will remove at least one headache later.  
 
-I also wanted solid, automated focusing.  My past couple of 'scopes had very troublesome focusers, though I had upgraded the focuser on the CPC to a [Feather Touch](http://starlightinstruments.com/store/index.php?route=product/product&product_id=244) which did make a *huge* difference-- the dual-speed focuser give you much finer control.  Automation, especially when using a mono camera, saves even more grief.
+<figure style="width: 200px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/unboxing/feathertouch.jpg" alt="">
+  <figcaption>FeatherTouch on the 8" CPC"</figcaption>
+</figure> 
 
-# The Telescope Choices
+I also wanted solid, automated focusing.  My past couple of 'scopes had very troublesome focusers, though I had upgraded the focuser on the CPC to a [Feather Touch](http://starlightinstruments.com/store/index.php?route=product/product&product_id=244) dual-speed, 10:1 manual focuser.  This focuser has two knobs: an inner, and outer.  When you turn the bigger, outside knob, the focus moves quite a bit (the 10x part), while the inner knob moves it just a little.  This makes a *huge* difference in focusing-- the dual-speed focuser give you much finer control than the stock single-speed focuser that my CPC came with.  Automation, especially when using a mono camera, would have saved even more grief.
+<br><br><br>
+
+## The Telescope Choices
 
 Here is a quick matrix of some specs for _some_ of the scopes I looked at- I can't find the original matrix, so going off of ones that I am **sure** were on it.
 
@@ -125,18 +131,31 @@ I had always heard about Tak's.  The build quality, the _optical_ quality, the s
 
 Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site.  `In Stock`.  So I nabbed the FSQ-106EDX4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
 
-The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser looks very nice in my glass-door office cabinet, which is now its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com).  
+The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser looks very nice in my glass-door office cabinet, which is now its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com) (hit `products`, then `MoonLight NiteCrawler` -- the website is awful, but the products are great!).  
 
-{%
-  include figure image_path="/assets/images/unboxing/nitecrawler-1.jpg"
-  alt="Take my money"
-  caption="Here is the NiteCrawler, next to one of the MyT's counterweights, for scale.  I think I mounted the OTA on the focuser, rather than the other way around"
-%}
 
+<figure style="width: 300px" class="align-left">
+  <img src="{{ site.url }}{{ site.baseurl }}/assets/images/unboxing/nitecrawler-1.jpg" alt="">
+  <figcaption>Here is the NiteCrawler, next to one of the MyT's counterweights, for scale.  I think I mounted the OTA on the focuser, rather than the other way around</figcaption>
+</figure> 
+
+NiteCrawlers come in various colors, I opted for the red to go with the mount.  Had I known how **much** red my rig would have I probably would have chosen a different color, but that isn't all that important.  What _is_ important are the specs on this focuser.  First, and foremost, it is also a _field rotator_.  For some 'scopes you have to pick the size you want -- it was easy for me, the Tak requires the 3.5" version.  It's important to make sure that your focal plane is at the center of the focuser travel when imaging.  This gives you the most "oops" room.  This involved trial & error, and a whole lot of measuring, since removing the stock focuser requires you to backtrack and figure out your own backfocus.  I'll talk about that sometime in another post.  What it came down to for me was I think 2x2" spacers, and one 1/2" one. 
+
+### Some details about the NiteCrawler  
+
+- 25 lb. instrument load capacity
+- 2 axis no backlash lead screws
+- Field Rotatorwith .001 (!) degree resolution
+- WR35 505,960 steps per revolution
+- Focuser has .0000105” per step or .2667 Microns per step
+
+<hr>
 
 # The Unboxing(s)
 
 ## Takahashi FSQ-106EDX4
+
+Unboxing the Tak was amusing.  Triple boxed, and a boatload of peanuts.  It did _not_ come with a case, which wouldn't really help anyway because of the focuser swap.
 
 {% include gallery id="gallery_tak" caption="Fragile.  Handle with utmost care" %}
 
