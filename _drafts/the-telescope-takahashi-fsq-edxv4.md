@@ -1,6 +1,6 @@
 ---
 date: 2018-04-10
-title: "The Telescope: Takahashi FSQ-106EDXv4"
+title: "The Telescope: Takahashi FSQ-106EDX4"
 tags: [ astrophotography, gear, unboxing ]
 classes: wide
 
@@ -103,7 +103,7 @@ Here is a quick matrix of some specs for _some_ of the scopes I looked at- I can
 | Stellarvue   | [SVQ86](https://www.stellarvue.com/stellarvue-svq86-astrograph/) Apochromatic Triplet                                              |  86mm    | 460mm        |  f/5.4  |$2,085 |3" focuser  |
 | Stellarvue   | [SV80ST-IS](https://www.stellarvue.com/stellarvue-sv80st-is-imaging-refractor-telescope-system/) Apochromatic Triplet              |  80mm    | 480mm        |  f/6    |$1,560 |Includes Flattener|
 | Takahashi    | [FSQ-85ED](https://optcorp.com/products/takahashi-fsq-85edx-astrograph-refractor-with-flattener) Apochromatic Triplet             |  84mm    | 445mm        |  f/5.3  |$1,560 |four element double ED Petzval system, Includes Flattener|
-| Takahashi    | [FSQ-106EDXv4](https://www.stellarvue.com/stellarvue-sv80st-is-imaging-refractor-telescope-system/) Apochromatic Triplet          | 106mm    | 530mm        |  f/5    |$1,560 |Includes Flattener|
+| Takahashi    | [FSQ-106EDX4](https://www.stellarvue.com/stellarvue-sv80st-is-imaging-refractor-telescope-system/) Apochromatic Triplet          | 106mm    | 530mm        |  f/5    |$1,560 |Includes Flattener|
 | Meade        | [6000 Series 70mm](https://optcorp.com/products/meade-6000-series-70mm-astrograph-quadruplet-apo-refractord) Astrograph Quadruplet|  70mm    | 350mm        |  f/5    |$1,199 ||
 | Explore Scientific | [102mm FCD100](https://optcorp.com/products/explore-scientific-102mm-fcd100-f-7-ed-apo-triplet-refractor) Apo                | 102mm    | 714mm        |  f/7    |$1,499 ||
 | Sky-Watcher  | [120mm Esprit ED](https://optcorp.com/products/sky-watcher-esprit-120-ed-apo-refractor-s11420) Apo                                 | 120mm    | 840mm        |  f/7    |$3,199 |includes thread-on field flattener|
@@ -123,7 +123,7 @@ I had always heard about Tak's.  The build quality, the _optical_ quality, the s
 
 ![image-right](https://media.giphy.com/media/TdwziQPhbNAzK/giphy.gif){: .align-right}
 
-Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site.  `In Stock`.  So I nabbed the FSQ-106EDXv4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
+Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site.  `In Stock`.  So I nabbed the FSQ-106EDX4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
 
 The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser looks very nice in my glass-door office cabinet, which is now its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com).  
 
@@ -136,7 +136,7 @@ The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser 
 
 # The Unboxing(s)
 
-## Takahashi FSQ-106EDXv4
+## Takahashi FSQ-106EDX4
 
 {% include gallery id="gallery_tak" caption="Fragile.  Handle with utmost care" %}
 
