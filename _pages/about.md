@@ -2,38 +2,32 @@
 permalink: /about/
 title: "About"
 excerpt: "Geek, Explaineer"
- # layouts_gallery:
- #   - url: /assets/images/mm-layout-splash.png
- #     image_path: /assets/images/mm-layout-splash.png
- #     alt: "splash layout example"
- #   - url: /assets/images/mm-layout-single-meta.png
- #     image_path: /assets/images/mm-layout-single-meta.png
- #     alt: "single layout with comments and related posts"
- #   - url: /assets/images/mm-layout-archive.png
- #     image_path: /assets/images/mm-layout-archive.png
- #     alt: "archive layout example"
+
 toc: true
 last_modified_at: 2018-05-25T08:41:35-04:00
 ---
 
 ## About this Site
 
-This site focuses primarily on my endeavors in astrophotography-- gear,
-process, software, and, of course, targets & images.  I reserve the right :wink: 
-to delve into other things that I find interesting, usually in the world of 
-home theater and electronics, home automation, and quite possibly powertools.  
-Posts will tagged appropriately so readers don't have to suffer through topics
-they aren't interested in.
+This site focuses primarily on my endeavors in astrophotography-- gear, process,
+software, and, of course, targets & images.  I reserve the right :wink: to delve
+into other topcs that are loosely related to astrophotography-- If I have to
+pack it into the van for a night observing then it is fair game.  Posts will
+tagged appropriately so readers don't have to suffer through topics they aren't
+interested in.
 
 This site is very much a work in progress.  Really only the overall look is how
-I want it.  Most of the content is fake and generated, but I hope to address 
+I want it.  Most of the content is fake and generated, but I hope to address
 that soon.  There is not yet a commenting system (which makes sense, since there
-is not really anything to comment _on_).  Odds are that, once I get my permanent observatory set up, I will also start recording some video content.  We will see how that goes - I have been told that "I have a face for radio".  That's good, right?
+is not really anything to comment _on_).  Odds are that, once I get my permanent
+observatory set up, I will also start recording some video content.  We will see
+how that goes - I have been told that "I have a face for radio".  That's good,
+right?
 
 ### Getting Around
 
 This site has a pretty simple layout - it's all static thanks to
-[jekyll](https://jekyllrb.com).  It should be fairly responsive. At the top you
+[jekyll](https://jekyllrb.com), and should be fairly responsive. At the top you
 see a main navigation bar.  The top left corner has the site title which will
 always get you back to the root level.  Navigation is broken up into "posts" and
 "notes".

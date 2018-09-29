@@ -1,8 +1,9 @@
 ---
 date: 2018-07-03
+toc: true
 title: "The Mount: Paramount MyT"
 tags: [ astrophotography, gear, unboxing ]
-classes: wide
+# classes: wide
 
 header:
   teaser: /assets/images/unboxing/myt-finally-1.jpg
@@ -69,7 +70,7 @@ gallery_myt:
 
 ---
 
-I ordered pretty much the entire rig at the same time-- the mount, the OTA, camera, seven-position filter wheel, filters, guide camera, tripod, and an extra 10 lb weight.  I already had a guide scope.  About half of the equipment was in stock when I ordered, but I was aware that my mount wasn't going to arrive at the same time as everything else; it was quoted as about a six-week lead time.
+I ordered pretty much the entire rig at the same time-- the mount, OTA, camera, filter wheel, filters, guide camera, tripod, plus an extra 10 lb weight for good measure.  I already had a guide scope.  About half of the equipment was in stock when I ordered, but I was aware that my mount wasn't going to arrive at the same time as everything else; it was quoted as about a six-week lead time.
 
 <!--more-->
 

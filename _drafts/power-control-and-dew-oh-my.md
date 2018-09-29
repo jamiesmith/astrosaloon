@@ -9,7 +9,7 @@ header:
 
 ---
 
-The last chunk of stuff from the initial bullet list (see ["Pulled the trigger..."](http://localhost:4000/pulled-the-trigger/)) I want to talk about together.  
+The last chunk of stuff from the initial bullet list (see ["Pulled the trigger..."](/pulled-the-trigger/)) I want to talk about together.  
 
 - I needed a way to _control_ all of this stuff
 - I needed a way to _power_ all of this stuff

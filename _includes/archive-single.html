@@ -22,7 +22,6 @@
     
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     {% if include.type == "grid" and teaser %}
-    IFFFFF
         <a href="{{ post.url | relative_url }}" rel="permalink">
           <div class="archive__item-teaser">
             <img src=
@@ -60,7 +59,7 @@
     <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify | strip_html | truncate: 1000 }}
         <br>
         {% if post.link %}
-            <a href="{{ post.link }}">Read More</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
+            <a href="{{ post.link }}">Continue Reading</a> <a href="{{ post.url | relative_url }}" rel="permalink"><i class="fas fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
         {% else %}
             <a href="{{ post.url | relative_url }}" rel="permalink">Read More</a>
         {% endif %}
