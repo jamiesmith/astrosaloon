@@ -7,55 +7,29 @@ header:
   teaser: /assets/images/unboxing/cameras-04.jpg
 
 gallery:
-  - url: /assets/images/unboxing/cameras-01.jpg
-    image_path: /assets/images/unboxing/cameras-01.jpg
-    alt: cameras-01.jpg
+  - image_path: /assets/images/unboxing/cameras-01.jpg
     title: Bunch of stuff in one big box
-  - url: /assets/images/unboxing/cameras-02.jpg
-    image_path: /assets/images/unboxing/cameras-02.jpg
-    alt: cameras-02.jpg
+  - image_path: /assets/images/unboxing/cameras-02.jpg
     title: More peanuts. 
-  - url: /assets/images/unboxing/cameras-03.jpg
-    image_path: /assets/images/unboxing/cameras-03.jpg
-    alt: cameras-03.jpg
+  - image_path: /assets/images/unboxing/cameras-03.jpg
     title: What's in box number 1?
-  - url: /assets/images/unboxing/cameras-04.jpg
-    image_path: /assets/images/unboxing/cameras-04.jpg
-    alt: cameras-04.jpg
+  - image_path: /assets/images/unboxing/cameras-04.jpg
     title: A camera with a ginormous sensor!
-  - url: /assets/images/unboxing/cameras-13.jpg
-    image_path: /assets/images/unboxing/cameras-13.jpg
-    alt: cameras-13.jpg
+  - image_path: /assets/images/unboxing/cameras-13.jpg
     title: Manual and packing list
-  - url: /assets/images/unboxing/cameras-14.jpg
-    image_path: /assets/images/unboxing/cameras-14.jpg
-    alt: cameras-14.jpg
-    title: Nive, sturdy foam around it.  A little bummed that there wasn't a case-- but it likely wouldn't have fit with the FW, anyway.  I did have one custom made.
-  - url: /assets/images/unboxing/cameras-15.jpg
-    image_path: /assets/images/unboxing/cameras-15.jpg
-    alt: cameras-15.jpg
+  - image_path: /assets/images/unboxing/cameras-14.jpg
+    title: Nice, sturdy foam around it.  A little bummed that there wasn't a case-- but it likely wouldn't have fit with the FW, anyway.  I did have one custom made.
+  - image_path: /assets/images/unboxing/cameras-15.jpg
     title: This is a beast.  The handles really help when putting it on the 'scope - you **always** maintain a positive grip
-
-
-  - url: /assets/images/unboxing/cameras-18.jpg
-    image_path: /assets/images/unboxing/cameras-18.jpg
-    alt: cameras-18.jpg
+  - image_path: /assets/images/unboxing/cameras-18.jpg
     title: The Atik 16200 mono body, 2 to m54 nosepiece adaptor, 12v cord and USB
-  - url: /assets/images/unboxing/cameras-08.jpg
-    image_path: /assets/images/unboxing/cameras-08.jpg
-    alt: cameras-08.jpg
+  - image_path: /assets/images/unboxing/cameras-08.jpg
     title: Looks like they didn't have time to print another box.  I hope it's the mini inside...
-  - url: /assets/images/unboxing/cameras-09.jpg
-    image_path: /assets/images/unboxing/cameras-09.jpg
-    alt: cameras-09.jpg
+  - image_path: /assets/images/unboxing/cameras-09.jpg
     title: Coouple of usb cables and the guide cable (I plan to guide direct)
-  - url: /assets/images/unboxing/cameras-10.jpg
-    image_path: /assets/images/unboxing/cameras-10.jpg
-    alt: cameras-10.jpg
+  - image_path: /assets/images/unboxing/cameras-10.jpg
     title: Looks like the right one...
-  - url: /assets/images/unboxing/cameras-11.jpg
-    image_path: /assets/images/unboxing/cameras-11.jpg
-    alt: cameras-11.jpg
+  - image_path: /assets/images/unboxing/cameras-11.jpg
     title: It is! Smiley face and everything
 
 ---

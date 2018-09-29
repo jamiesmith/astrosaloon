@@ -8,41 +8,23 @@ header:
   teaser: /assets/images/unboxing/efw3-2.jpg
 
 gallery:
-  - url: /assets/images/unboxing/efw3-1.jpg
-    image_path: /assets/images/unboxing/efw3-1.jpg
-    alt: efw3-1.jpg
+  - image_path: /assets/images/unboxing/efw3-1.jpg
     title: Aw, nuts.
-  - url: /assets/images/unboxing/efw3-2.jpg
-    image_path: /assets/images/unboxing/efw3-2.jpg
-    alt: efw3-2.jpg
+  - image_path: /assets/images/unboxing/efw3-2.jpg
     title: This was actually a nice surprise, I wasn't aware that it had even shipped
-  - url: /assets/images/unboxing/efw3-3.jpg
-    image_path: /assets/images/unboxing/efw3-3.jpg
-    alt: efw3-3.jpg
+  - image_path: /assets/images/unboxing/efw3-3.jpg
     title: Single page manual, CD I don't need
-  - url: /assets/images/unboxing/efw3-4.jpg
-    image_path: /assets/images/unboxing/efw3-4.jpg
-    alt: efw3-4.jpg
+  - image_path: /assets/images/unboxing/efw3-4.jpg
     title: Instructions
-  - url: /assets/images/unboxing/efw3-5.jpg
-    image_path: /assets/images/unboxing/efw3-5.jpg
-    alt: efw3-5.jpg
+  - image_path: /assets/images/unboxing/efw3-5.jpg
     title: The FW itself- couple pieces of foam, along with a mylar(?) bubblewrap bag
-  - url: /assets/images/unboxing/efw3-6.jpg
-    image_path: /assets/images/unboxing/efw3-6.jpg
-    alt: efw3-6.jpg
+  - image_path: /assets/images/unboxing/efw3-6.jpg
     title: 12v power, USB cord, and teeny tiny screws, which took me like an hour to find when the filters arrived several weeks later
-  - url: /assets/images/unboxing/efw3-7.jpg
-    image_path: /assets/images/unboxing/efw3-7.jpg
-    alt: efw3-7.jpg
+  - image_path: /assets/images/unboxing/efw3-7.jpg
     title: there it is!  Now what?
-  - url: /assets/images/unboxing/camera-case-1.jpg
-    image_path: /assets/images/unboxing/camera-case-1.jpg
-    alt: camera-case-1.jpg
+  - image_path: /assets/images/unboxing/camera-case-1.jpg
     title: Like a big lunchbox!
-  - url: /assets/images/unboxing/camera-case-2.jpg
-    image_path: /assets/images/unboxing/camera-case-2.jpg
-    alt: camera-case-2.jpg
+  - image_path: /assets/images/unboxing/camera-case-2.jpg
     title: Like a glove 
 ---
 

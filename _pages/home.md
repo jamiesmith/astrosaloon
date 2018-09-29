@@ -5,7 +5,7 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Join us as we photograph the stars, drink booze, and listen to music.<br /> **WARNING**: nothing works yet (but getting closer!)'
+excerpt: 'Join us as we photograph the stars, listen to music, and drink booze.<br /> **WARNING**: nothing works yet (but getting closer!)'
 
 feature_row:
   - image_path: /assets/images/horizontal-mw-teaser.jpg

@@ -8,75 +8,41 @@ header:
   teaser: /assets/images/unboxing/tak-01.jpg
 
 gallery_tak:
-  - url: /assets/images/unboxing/tak-01.jpg
-    image_path: /assets/images/unboxing/tak-01.jpg
-    alt: tak-01.jpg
+  - image_path: /assets/images/unboxing/tak-01.jpg
     title: Let the good times roll!  Bring out a sharp flipper knife and open the box.  Look, it's...
-  - url: /assets/images/unboxing/tak-02.jpg
-    image_path: /assets/images/unboxing/tak-02.jpg
-    alt: tak-02.jpg
+  - image_path: /assets/images/unboxing/tak-02.jpg
     title: Another box.  OK, that's safe.  Let's put this box on the counter.
-  - url: /assets/images/unboxing/tak-03.jpg
-    image_path: /assets/images/unboxing/tak-03.jpg
-    alt: tak-03.jpg
+  - image_path: /assets/images/unboxing/tak-03.jpg
     title: OK.  Go again.  Open the box.  Ah, fina...
-  - url: /assets/images/unboxing/tak-04.jpg
-    image_path: /assets/images/unboxing/tak-04.jpg
-    alt: tak-04.jpg
+  - image_path: /assets/images/unboxing/tak-04.jpg
     title: It's.  Another.  Box.  Is this a scope, or Russian nesting dolls?
-  - url: /assets/images/unboxing/tak-05.jpg
-    image_path: /assets/images/unboxing/tak-05.jpg
-    alt: tak-05.jpg
+  - image_path: /assets/images/unboxing/tak-05.jpg
     title: This time for SURE
-  - url: /assets/images/unboxing/tak-06.jpg
-    image_path: /assets/images/unboxing/tak-06.jpg
-    alt: tak-06.jpg
+  - image_path: /assets/images/unboxing/tak-06.jpg
     title: Oooh, something different.  Is this progress?
-  - url: /assets/images/unboxing/tak-07.jpg
-    image_path: /assets/images/unboxing/tak-07.jpg
-    alt: tak-07.jpg
+  - image_path: /assets/images/unboxing/tak-07.jpg
     title: Looks like an accessory box
-  - url: /assets/images/unboxing/tak-08.jpg
-    image_path: /assets/images/unboxing/tak-08.jpg
-    alt: tak-08.jpg
+  - image_path: /assets/images/unboxing/tak-08.jpg
     title: Certified to be a telescope.  Cool
-  - url: /assets/images/unboxing/tak-09.jpg
-    image_path: /assets/images/unboxing/tak-09.jpg
-    alt: tak-09.jpg
+  - image_path: /assets/images/unboxing/tak-09.jpg
     title: After relocating a bunch of peanuts, I finally see some Tak sea foam green 
-  - url: /assets/images/unboxing/tak-10.jpg
-    image_path: /assets/images/unboxing/tak-10.jpg
-    alt: tak-10.jpg
+  - image_path: /assets/images/unboxing/tak-10.jpg
     title: So pretty
-  - url: /assets/images/unboxing/tak-11.jpg
-    image_path: /assets/images/unboxing/tak-11.jpg
-    alt: tak-11.jpg
+  - image_path: /assets/images/unboxing/tak-11.jpg
     title: Don't drop it, don't drop it.  Dew shield retracted
-  - url: /assets/images/unboxing/tak-12.jpg
-    image_path: /assets/images/unboxing/tak-12.jpg
-    alt: tak-12.jpg
+  - image_path: /assets/images/unboxing/tak-12.jpg
     title: And extended
-  - url: /assets/images/unboxing/tak-13.jpg
-    image_path: /assets/images/unboxing/tak-13.jpg
-    alt: tak-13.jpg
+  - image_path: /assets/images/unboxing/tak-13.jpg
     title: The business end.  That's the stuff.
 
 gallery_reducer:
-  - url: /assets/images/unboxing/reducer-1.jpg
-    image_path: /assets/images/unboxing/reducer-1.jpg
-    alt: reducer-1.jpg
+  - image_path: /assets/images/unboxing/reducer-1.jpg
     title: .73x Takahashi reducer box
-  - url: /assets/images/unboxing/reducer-2.jpg
-    image_path: /assets/images/unboxing/reducer-2.jpg
-    alt: reducer-2.jpg
+  - image_path: /assets/images/unboxing/reducer-2.jpg
     title: Bigger than it looks
-  - url: /assets/images/unboxing/reducer-5.jpg
-    image_path: /assets/images/unboxing/reducer-5.jpg
-    alt: Reducer in hand
+  - image_path: /assets/images/unboxing/reducer-5.jpg
     title: I don't exactly have small hands.  That is about the size of a coffee cup
-  - url: /assets/images/unboxing/reducer-4.jpg
-    image_path: /assets/images/unboxing/reducer-4.jpg
-    alt: reducer-4.jpg
+  - image_path: /assets/images/unboxing/reducer-4.jpg
     title: teeny-tiny allen wrench
 
 ---
@@ -93,7 +59,7 @@ The "small(ish)" aspect generally refers to a refractor which is around 80mm, wh
 
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/unboxing/feathertouch.jpg" alt="">
-  <figcaption>FeatherTouch on the 8" CPC"</figcaption>
+  <figcaption>FeatherTouch on the 8" CPC</figcaption>
 </figure> 
 
 I also wanted solid, automated focusing.  My past couple of 'scopes had very troublesome focusers, though I had upgraded the focuser on the CPC to a [Feather Touch](http://starlightinstruments.com/store/index.php?route=product/product&product_id=244) dual-speed, 10:1 manual focuser.  This focuser has two knobs: an inner, and outer.  When you turn the bigger, outside knob, the focus moves quite a bit (the 10x part), while the inner knob moves it just a little.  This makes a *huge* difference in focusing-- the dual-speed focuser give you much finer control than the stock single-speed focuser that my CPC came with.  Automation, especially when using a mono camera, would have saved even more grief.
