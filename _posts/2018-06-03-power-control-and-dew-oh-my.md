@@ -95,7 +95,7 @@ Whatever wiring solution you choose, you can't go wrong with some [braided cord 
 
 ## Stop the presses.  Change Course.  New Plan
 
-No plan survives contact with the enemy.  I actually _bought_ all of this stuff.  I even started prepping to install it (still no mount, yet).  Then, I stumbled upon the [Primaluce Labs Eagle2pro](https://telescopes.net/store/primalucelab-eagle2-pro-wifi-control-unit-for-telescopes-astrophotography.html).  This is an entire system.  I still needed rings for the Tak OTA, and a dovetail bar.  
+No plan survives contact with the enemy.  I actually _bought_ all of this stuff.  I even started prepping to install it (still no mount, yet).  Then, I stumbled upon the [Primaluce Labs Eagle2pro](https://telescopes.net/store/primalucelab-eagle2-pro-wifi-control-unit-for-telescopes-astrophotography.html).  This is an entire system.  And. It. Is. Red.  Yay, more red.  I still needed rings for the Tak OTA, and a couple dovetail bars.  
 
 The Eagle2pro is a NUC inside, with extra stuff.  It has eight USB ports (a mix of USB 2.0 & 3.0), three dew heater jacks, WiFi (which operates in both client and server mode at the same time), AND has 12-volt power distribution _built right in_.  This unit replaces the NUC, RIGrunner, USB hub, and the dew heater.  It even comes with a license for Windows 10 Enterprise.  
 
