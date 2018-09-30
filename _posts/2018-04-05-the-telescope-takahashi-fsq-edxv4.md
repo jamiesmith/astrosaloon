@@ -96,26 +96,25 @@ Oh, the RASA.  Yeah.  Talk me down from the ledge... Maybe next time...
 I had always heard about Tak's.  The build quality, the _optical_ quality, the scarcity.  
 
 ![image-right](https://media.giphy.com/media/TdwziQPhbNAzK/giphy.gif){: .align-right}
-
-Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site.  `In Stock`.  So I nabbed the FSQ-106EDX4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
+Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site: `In Stock`.  So I nabbed the FSQ-106EDX4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
 
 The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser looks very nice in my glass-door office cabinet, which is now its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com) (hit `products`, then `MoonLight NiteCrawler` -- the website is awful, but the products are great!).  
 
 
 <figure style="width: 300px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/unboxing/nitecrawler-1.jpg" alt="">
-  <figcaption>Here is the NiteCrawler, next to one of the MyT's counterweights, for scale.  I think I mounted the OTA on the focuser, rather than the other way around</figcaption>
+  <figcaption>Here is the NiteCrawler, next to one of the MyT's counterweights for scale.  I think I mounted the OTA on the focuser, rather than the other way around</figcaption>
 </figure> 
-
-NiteCrawlers come in various colors, I opted for the red to go with the mount.  Had I known how **much** red my rig would have I probably would have chosen a different color, but that isn't all that important.  What _is_ important are the specs on this focuser.  First, and foremost, it is also a _field rotator_.  For some 'scopes you have to pick the size you want -- it was easy for me, the Tak requires the 3.5" version.  It's important to make sure that your focal plane is at the center of the focuser travel when imaging.  This gives you the most "oops" room.  This involved trial & error, and a whole lot of measuring, since removing the stock focuser requires you to backtrack and figure out your own backfocus.  I'll talk about that sometime in another post.  What it came down to for me was I think 2x2" spacers, and one 1/2" one. 
+NiteCrawlers come in several colors-- I opted for the red to go with the mount.  Had I known how **much** red my rig would have I probably would have chosen a different color, but that isn't all that important.  What _is_ important are the specs on this focuser.  First, and foremost, it is also a _field rotator_.  For some 'scopes you have to pick the size NiteCrawler that you want: 2.5", 3", or 3.5". It was easy for me-- the Tak requires the 3.5" version.  It's important to make sure that your focal plane is at the center of the focuser travel when imaging.  This gives you the most "oops" room.  This involved trial & error, and a whole lot of measuring, since removing the stock focuser requires you to backtrack and figure out your own backfocus.  I'll talk about that sometime in another post.  What it came down to for me was I think 2x2" spacers, and one 1/2" one. 
 
 ### Some details about the NiteCrawler  
 
 - 25 lb. instrument load capacity
 - 2 axis no backlash lead screws
-- Field Rotatorwith .001 (!) degree resolution
+- Field Rotator with .001 (!) degree resolution
 - WR35 505,960 steps per revolution
-- Focuser has .0000105” per step or .2667 Microns per step
+- Focuser travels .0000105” per step or .2667 Microns per step
+- Approximately .9” travel - that's 85,714 steps!
 
 <hr>
 
@@ -123,7 +122,7 @@ NiteCrawlers come in various colors, I opted for the red to go with the mount.  
 
 ## Takahashi FSQ-106EDX4
 
-Unboxing the Tak was amusing.  Triple boxed, and a boatload of peanuts.  It did _not_ come with a case, which wouldn't really help anyway because of the focuser swap.
+Unboxing the Tak was amusing.  Triple boxed, with a boatload of peanuts.  It did _not_ come with a case, which wouldn't really help anyway because of the focuser swap.
 
 {% include gallery id="gallery_tak" caption="Fragile.  Handle with utmost care" %}
 
@@ -136,7 +135,7 @@ This ended up going back.
 3. I already had enough to learn
 4. I will have plenty of targets without it :wink:
 
-I am including a few shots of it anyway- it really shows the _quality_ of Tak equipment!
+I am including a few shots of it anyway, since it really shows the _quality_ of Tak equipment!
 
 {% include gallery id="gallery_reducer" caption="This reducer is **beefy**" %}
 

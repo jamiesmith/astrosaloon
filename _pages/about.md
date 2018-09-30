@@ -77,8 +77,11 @@ This ethos really seeps its way into all aspects of work - I plan to capture
 some of the notes into docs for this site, hoping that someone will get some use
 out of them.  Worst case, I reclaim a few KB on my Dropbox account.
 
-{% include image.html url="/assets/images/parrot.jpg" description="My new friend and I at a dog event, about a dozen years ago.  I researched tropical birds for a couple weeks after.  My wife said no :frowning:" %}
 
+{% 
+  include figure image_path="/assets/images/homepage/parrot.jpg" 
+  caption="My new friend and I at a dog event, about a dozen years ago.  I researched tropical birds for a couple weeks after.  My wife said no"
+%}
 I have a pretty broad experience base, ranging from credit card processing on
 distributed transactional platforms to container management, Docker, and IoT. In
 my previous roles I *lived* working with customers, pre and post sales. Whether

@@ -24,8 +24,8 @@ main:
     url: /year-archive/
   - title: "Tags"
     url: /tags/
-  - title: "Notes"
-    url: /collection-archive/
+  # - title: "Notes"
+  #   url: /collection-archive/
   - title: "About"
     url: /about/
   - title: "Terms &amp; Privacy"
