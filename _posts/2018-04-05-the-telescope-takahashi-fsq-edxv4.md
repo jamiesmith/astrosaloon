@@ -91,6 +91,8 @@ One of the biggest issues with these telescopes was, and still is, _availability
 
 It was really that way for most of the Stellarvues.  "Ooh, sorry, you just missed it!"  I kept checking in as I researched, but to no avail-- and I had no desire to be placed on an indeterminate waitlist.  
 
+Oh, the RASA.  Yeah.  Talk me down from the ledge... Maybe next time...  
+
 I had always heard about Tak's.  The build quality, the _optical_ quality, the scarcity.  
 
 ![image-right](https://media.giphy.com/media/TdwziQPhbNAzK/giphy.gif){: .align-right}
