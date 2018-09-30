@@ -15,7 +15,7 @@ title                    : "AstroSaloon"
 title_separator          : "-"
 name                     : &name "Jamie Smith" # &name is a YAML anchor which can be *referenced later
 description              : &description "Join us as we photograph the stars, drink booze, and listen to music."
-url                      : http://www.AstroSaloon.com 
+url                      : https://www.AstroSaloon.com 
 baseurl                  : 
 repository               : "jamiesmith/astrosaloon"
 teaser                   : # path of fallback teaser image, e.g. "/assets/images/500x300.png"
@@ -106,8 +106,8 @@ author:
   bio              : "Software Architect/Explaineer/Bar Geek"
   location         : "Charlotte, NC"
   email            :
-  uri              : "https://astrosaloon.com"
-  home             : "https://astrosaloon.com"
+  uri              : "https://www.astrosaloon.com"
+  home             : "https://www.astrosaloon.com"
   bitbucket        :
   codepen          :
   dribbble         :
