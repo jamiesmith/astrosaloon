@@ -8,23 +8,23 @@ header:
 
 gallery:
   - image_path: /assets/images/ghro/ghro-1.jpg
-    title: assets/images/ghro/ghro-1.jpg
+    title: ghro-1.jpg
   - image_path: /assets/images/ghro/ghro-2.jpg
-    title: assets/images/ghro/ghro-2.jpg
+    title: ghro-2.jpg
   - image_path: /assets/images/ghro/ghro-3.jpg
-    title: assets/images/ghro/ghro-3.jpg
+    title: ghro-3.jpg
   - image_path: /assets/images/ghro/ghro-4.jpg
-    title: assets/images/ghro/ghro-4.jpg
+    title: ghro-4.jpg
   - image_path: /assets/images/ghro/ghro-5.jpg
-    title: assets/images/ghro/ghro-5.jpg
+    title: ghro-5.jpg
   - image_path: /assets/images/ghro/ghro-6.jpg
-    title: assets/images/ghro/ghro-6.jpg
+    title: ghro-6.jpg
   - image_path: /assets/images/ghro/ghro-7.jpg
-    title: assets/images/ghro/ghro-7.jpg
+    title: ghro-7.jpg
   - image_path: /assets/images/ghro/ghro-8.jpg
-    title: assets/images/ghro/ghro-8.jpg
+    title: ghro-8.jpg
   - image_path: /assets/images/ghro/ghro-9.jpg
-    title: assets/images/ghro/ghro-9.jpg
+    title: ghro-9.jpg
 
 ---
 
@@ -67,5 +67,5 @@ I went back a couple of weeks later and tried something that I could never accom
 
 I was very pleased.  In all actuality, these couple of nights showed me that I was actually capable of doing this!
 
-{% include gallery id="gallery" caption="This is a caption" %}
+{% include gallery id="gallery" caption="Some of the equipment at GHRO" %}
 
