@@ -5,7 +5,7 @@ header:
   overlay_color_off: "#5e616c"
   overlay_image: /assets/images/Horizontal-mw-banner.jpg
   caption:
-excerpt: 'Join us as we photograph the stars, listen to music, and drink booze.<br /> **WARNING**: nothing works yet (but getting closer!)'
+excerpt: 'Join us as we photograph the stars, listen to music, and drink booze.<br/>'
 
 feature_row:
   - image_path: /assets/images/horizontal-mw-teaser.jpg
@@ -31,7 +31,7 @@ feature_row:
     btn_label: "Booze"
 
 intro:
-  - excerpt: 'Get notified when I add new stuff &nbsp; 
+  - excerpt: 'Get notified when we add new stuff &nbsp; 
   [<i class="fab fa-twitter"></i> @AstroSaloon](https://twitter.com/AstroSaloon){: .btn .btn--twitter} 
   [<i class="fab fa-paypal"></i> Tip Me](https://paypal.me/jamiesmithnc){: .btn .btn--primary}'
 ---
