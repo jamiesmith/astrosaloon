@@ -17,7 +17,7 @@ Like many aspiring astrophotographers, I had my dream setup planned out.  Like m
   caption="Out for Delivery" 
 %}
 
-Over the next couple of  ~days~weeks I will go through a set of "unboxing posts" (not as much fun as videos, but hopefully informative none the less), along with a brief description of what other choices were on my radar and what "tipped the scales".  I researched and researched.  Analysis paralysis started setting in, and finally I made up my mind and pulled the trigger.  Where applicable, I will also let you know what stuff went back.
+Over the next couple of  ~~days~~ weeks I will go through a set of "unboxing posts" (not as much fun as videos, but hopefully informative none-the-less), along with a brief description of what other choices were on my radar and what "tipped the scales".  I researched and researched.  Analysis paralysis started setting in, and finally I made up my mind and pulled the trigger.  Where applicable, I will also let you know what stuff went back.
 
 Keep in mind as you read these (if, in fact, anyone does) that I am really new to all of this.  I hope to catalog my journey, my progress, and my mistakes.  Hopefully as I go the former will start to outweigh the latter :wink:.
 
@@ -40,6 +40,4 @@ I had a bullet list of the bigger things that I needed:
 - A way to _power_ all of this
 - Dew prevention
 
-Yeah, there are many other little things here and there.  But how much could those things add up to?
-
-As I add the relevant posts, I will go ahead and link directly to them in the above list.    
+Yeah, there are many other little things here and there.  But how much could those things add up to :zap:?
