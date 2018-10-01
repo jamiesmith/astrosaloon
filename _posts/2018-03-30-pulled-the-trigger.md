@@ -40,4 +40,4 @@ I had a bullet list of the bigger things that I needed:
 - A way to _power_ all of this
 - Dew prevention
 
-Yeah, there are many other little things here and there.  But how much could those things add up to :zap:?
+Yeah, there are many other little things here and there.  But how much could those things add up to :moneybag:?
