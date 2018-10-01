@@ -2,7 +2,7 @@
 title: "and so it begins..."
 tags: [ astrophotography, old gear]
 header:
-  teaser: /assets/images/horizontal-mw-teaser.jpg
+  teaser: /assets/images/homepage/horizontal-mw-teaser.jpg
 ---
 
 I got into astronomy back in 2004 when I bought a Meade ETX-90 (which, astonishingly, [they still make](https://amzn.to/2oSXHBO)).  This was a _go-to_ scope, able to find things in the sky and automatically move to them.  It came with a tripod and a couple of eyepieces.  The plan was to get my feet wet, see some things, and hopefully take some pictures.
@@ -10,7 +10,7 @@ I got into astronomy back in 2004 when I bought a Meade ETX-90 (which, astonishi
 <!--more-->
 
 {% 
-  include figure image_path="/assets/images/horizontal-mw-teaser.jpg" 
+  include figure image_path="/assets/images/homepage/horizontal-mw-teaser.jpg" 
   alt="First Milky Way image"
   caption="As dumb as it sounds, this picture showed me that I can do this.  This was not taken with the ETX-90" 
 %}
