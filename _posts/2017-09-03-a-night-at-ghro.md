@@ -13,14 +13,14 @@ gallery:
     title: ghro-2.jpg
   - image_path: /assets/images/ghro/ghro-3.jpg
     title: ghro-3.jpg
-  - image_path: /assets/images/ghro/ghro-4.jpg
-    title: ghro-4.jpg
   - image_path: /assets/images/ghro/ghro-5.jpg
     title: ghro-5.jpg
   - image_path: /assets/images/ghro/ghro-6.jpg
     title: ghro-6.jpg
   - image_path: /assets/images/ghro/ghro-7.jpg
     title: ghro-7.jpg
+  - image_path: /assets/images/ghro/ghro-4.jpg
+    title: ghro-4.jpg
   - image_path: /assets/images/ghro/ghro-8.jpg
     title: ghro-8.jpg
   - image_path: /assets/images/ghro/ghro-9.jpg
