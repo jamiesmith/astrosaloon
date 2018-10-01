@@ -28,7 +28,7 @@ gallery:
 
 ---
 
-I am now a member of the Charlotte Amateur Astronomers Club, which has an observatory Kershaw, South Carolina.  The observatory is called the Gayle H. Riggsbee Observatory (GHRO for short).
+I am now a member of the Charlotte Amateur Astronomers Club, which has an observatory near Kershaw, South Carolina.  The Gayle H. Riggsbee Observatory (GHRO for short) has several member pads, along with a good variety of telescopes for club members.
 
 <!--more-->
 
