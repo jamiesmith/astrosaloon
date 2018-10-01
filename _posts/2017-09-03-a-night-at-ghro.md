@@ -19,10 +19,10 @@ gallery:
     title: ghro-6.jpg
   - image_path: /assets/images/ghro/ghro-9.jpg
     title: ghro-9.jpg
-  - image_path: /assets/images/ghro/ghro-7.jpg
-    title: ghro-7.jpg
   - image_path: /assets/images/ghro/ghro-4.jpg
     title: ghro-4.jpg
+  - image_path: /assets/images/ghro/ghro-7.jpg
+    title: ghro-7.jpg
   - image_path: /assets/images/ghro/ghro-8.jpg
     title: ghro-8.jpg
 
@@ -33,7 +33,7 @@ I am now a member of the Charlotte Amateur Astronomers Club, which has an observ
 <!--more-->
 
 {%
-  include figure image_path="/assets/images/posts/cosmic-camporee-2017.jpg "
+  include figure image_path="/assets/images/posts/cosmic-camporee-2017.jpg"
   alt="GHRO"
   caption="GHRO from above, taken with a Phantom 4 Pro"
 %}
