@@ -35,7 +35,7 @@ I am now a member of the Charlotte Amateur Astronomers Club, which has an observ
 {%
   include figure image_path="/assets/images/posts/cosmic-camporee-2017.jpg "
   alt="GHRO"
-  caption="GHRO"
+  caption="GHRO from above, taken with a Phantom 4 Pro"
 %}
 
 The skies here aren't Arizona or New Mexico dark, but it is considerably darker than my yard.  I can actually see the Milky Way band with my "getting older" eyes.  I took a trek out there with my tripod, Nikon D5500, and my [iOptron SkyTracker Pro](https://www.ioptron.com/product-p/3322.htm).  Mine was red, not sure when it changed to black.  
