@@ -96,7 +96,7 @@ Oh, the RASA.  Yeah.  Talk me down from the ledge... Maybe next time...
 I had always heard about Tak's.  The build quality, the _optical_ quality, the scarcity.  
 
 ![image-right](https://media.giphy.com/media/TdwziQPhbNAzK/giphy.gif){: .align-right}
-Finally, I ready to really pull the trigger-- funds in hand, I check on OPTCorp's site: `In Stock`.  So I nabbed the FSQ-106EDX4, and have had no regrets.  Some obligitory unboxing pics are below (if there are no pictures, it didn't happen).  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
+Finally, I was ready to really pull the trigger-- funds in hand, I check on OPTCorp's site: `In Stock`.  So I nabbed the FSQ-106EDX4, and have had no regrets.  Some obligitory unboxing pics are below.  After all, if there are no pictures it didn't happen.  So I was able to get a _fantastic_ scope, and got it within a week of ordering.  It would be quite some time before I could actually **do** anything with it.
 
 The Tak has a HUGE image circle, and a mediocre focuser.  The detatched focuser looks very nice in my glass-door office cabinet, which is now its new home.  I replaced it with a mac-daddy NiteCrawler 3.5 from [MoonLite](https://focuser.com) (hit `products`, then `MoonLight NiteCrawler` -- the website is awful, but the products are great!).  
 
