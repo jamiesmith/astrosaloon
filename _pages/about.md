@@ -1,4 +1,4 @@
----
+	---
 permalink: /about/
 title: "About"
 excerpt: "Geek, Explaineer"
@@ -12,7 +12,7 @@ last_modified_at: 2018-05-25T08:41:35-04:00
 This site focuses primarily on my endeavors in astrophotography-- gear, process,
 software, and, of course, targets & images.  I reserve the right :wink: to delve
 into other topcs that are loosely related to astrophotography-- If I have to
-pack it into the van for a night observing then it is fair game.  Posts will
+pack it into the van for a night observing then it is fair game.  Posts will be
 tagged appropriately so readers don't have to suffer through topics they aren't
 interested in.
 
