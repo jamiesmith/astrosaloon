@@ -2,7 +2,6 @@
 permalink: /about/
 title: "About"
 excerpt: "Geek, Explaineer"
-
 toc: true
 last_modified_at: 2018-05-25T08:41:35-04:00
 ---
