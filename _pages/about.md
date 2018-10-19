@@ -17,8 +17,7 @@ tagged appropriately so readers don't have to suffer through topics they aren't
 interested in.
 
 This site is very much a work in progress.  Really only the overall look is how
-I want it.  Most of the content is fake and generated, but I hope to address
-that soon.  There is not yet a commenting system (which makes sense, since there
+I want it.  There is not yet a commenting system (which makes sense, since there
 is not really anything to comment _on_).  Odds are that, once I get my permanent
 observatory set up, I will also start recording some video content.  We will see
 how that goes - I have been told that "I have a face for radio".  That's good,
