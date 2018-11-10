@@ -39,7 +39,6 @@ outro:
 
 {% include feature_row id="intro" type="center" %}
 
-
 {% include feature_row %}
 
 {%- for post in site.posts limit:7 -%}
