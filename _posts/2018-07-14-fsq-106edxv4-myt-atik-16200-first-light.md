@@ -1,6 +1,6 @@
 ---
 title: "First Light with the Takahashi FSQ-106EDX4, Paramount MyT, and Atik 16200 Mono"
-tags: [ astrophotography, gear, unboxing ]
+tags: [ astrophotography, m31, galaxy ]
 classes: wide
 
 header:
