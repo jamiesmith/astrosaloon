@@ -19,7 +19,7 @@ It's been quite a while since I was able to get out to the observatory and actua
 <!--more-->
 
 {% 
-  include figure image_path="/assets/images/posts/ElephantTrunkSHO.png" 
+  include figure image_path="/assets/images/posts/ElephantTrunkSHO.jpg" 
   caption="Elephant's Trunk Nebula, ~7 hours" 
 %}
 Don't get me wrong- I did **try** to take some pictures.  I am a mac guy-- very computer savvy, but windows is a PITA.  When it comes to astrophotography, windows is really a necessity.  I was experimenting at home with some automation software options ([CCD Commander](http://ccdcommander.com) and [CCD Autopilot](http://www.ccdware.com/products/ccdap5/)), and couldn't really get either of them to work, so I uninstalled them to try later.
