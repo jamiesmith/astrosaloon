@@ -4,7 +4,7 @@ tags: [ astrophotography, nebula ]
 classes: wide
 
 header:
-  teaser: /assets/images/posts/ElephantTrunkSHO.png
+  teaser: /assets/images/posts/ElephantTrunkSHO.jpg
 
 gallery:
   - image_path: /assets/images/posts/mount-setup-1.jpg
