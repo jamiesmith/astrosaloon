@@ -15,7 +15,7 @@ feature_row:
     url: "/tags/astrophotography"
     btn_class: "btn--primary"
     btn_label: "Astrophotography"
-  - image_path: /assets/images/homepage/m31.jpg
+  - image_path: /assets/images/homepage/elephants-trunk-thumb.jpg
     alt: "Music & More"
     title: "Music & More"
     excerpt: "A night under the stars goes well with some music.  Here you will find some of our favorites, including links when possible."
