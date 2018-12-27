@@ -1,6 +1,6 @@
 ---
 title: "First night at GHRO"
-tags: [ astrophotography, GHRO, widefield, galaxy, Milky Way ]
+tags: [ astrophotography, ghro, widefield, galaxy, Milky Way ]
 classes: wide
 
 header:
