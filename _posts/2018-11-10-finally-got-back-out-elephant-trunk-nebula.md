@@ -46,5 +46,4 @@ This post isn't about the troubles that I had, but rather the successes.  Two gr
   caption="IC 1396, The Elephant's Trunk Nebula.  ~Seventy frames, SHO+RGB for a total of 7.2 hours, unguided"
 %}
 
-## The Elephant's Trunk Nebula (IC 1396)
 
