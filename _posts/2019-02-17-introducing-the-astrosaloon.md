@@ -76,4 +76,4 @@ We built the astroshed at GHRO (the Gayle H. Riggsbee Observatory) which is abou
 
 Click through the pictures to see what all went down.
 
-{% include gallery id="gallery" caption="This is a caption" %}
+{% include gallery id="gallery" caption="Building the AstroSaloon" %}
