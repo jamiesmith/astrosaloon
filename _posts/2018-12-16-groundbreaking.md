@@ -1,6 +1,6 @@
 ---
 title: "Groundbreaking!  Building a home for the AstroSaloon"
-tags: [ astrophotography, GHRO ]
+tags: [ astroshed, GHRO ]
 classes: wide
 
 header:
