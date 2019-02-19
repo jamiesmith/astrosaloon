@@ -20,7 +20,7 @@ The last chunk of stuff from the initial bullet list (see ["Pulled the trigger..
 
 - I needed a way to _control_ all of this stuff
 - I needed a way to _power_ all of this stuff
-- And definately needed a way to prevent dew from wreaking havoc on everything
+- And definitely needed a way to prevent dew from wreaking havoc on everything
 
 <!--more-->
 
