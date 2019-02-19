@@ -84,7 +84,7 @@ Which comes to $920.  You can hunt around for a deal.
 
 This is not an exaustive list - just enough to get you started
 
-- [Crimp](https://amzn.to/2xMJ1J6
+- [Crimp](https://amzn.to/2xMJ1J6)
 - [Power Supply](https://powerwerx.com/ss30dv-desktop-dc-power-supply-powerpole) ($120)
   - There are some similar to this on Amazon, but most of the ones that I found there don't put out the full 30A to each output
 - [RIGrunner 4008](https://amzn.to/2Nf0PBS)($145)
