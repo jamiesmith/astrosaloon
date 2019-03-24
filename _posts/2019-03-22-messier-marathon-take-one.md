@@ -189,7 +189,7 @@ A beautiful night at the AstroSaloon.  The plan?  Image as many of the Messier o
 <!--more-->
 Using a copy of the [MessierMarathon.js](http://www.bisque.com/sc/blogs/seeker_blog/archive/2019/02/27/a-new-messier-marathon-scripting-example.aspx) which I got from Richard Wright's blog, [A New Messier Marathon Scripting Example](http://www.bisque.com/sc/blogs/seeker_blog/archive/2019/02/27/a-new-messier-marathon-scripting-example.aspx), I set on my way.  I don't have the limits right for my scope yet, so I did in fact get a couple of really nice shots of the walls (sorry, I deleted those).  When I give this a second take I will definitely add a focus run every so often - the temperature drop over the night caused quite a bit of drift in the later images. 
 
-After all was said and done I managed to get 87 out of the 110 Messier catalog objects.  Many were competing with moonglow.  Each image is a 300 second monochrome image, all luminance, calibrated with a master dark superbias, and 30 flats.  I could have skipped a few, because in many instances they are 
+After all was said and done I managed to get 87 out of the 110 Messier catalog objects.  Many were competing with moonglow.  Each image is a 300 second monochrome image, all luminance, and each were calibrated with a master dark, superbias, and 30 flats.  I did very little postprocessing.  I could have skipped a few, because in many instances they are 
 
 Here is a full shot of the gallery.  If you want to see each of the individual images and their blurry goodness, scroll down to the bottom of the post.  
 
