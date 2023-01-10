@@ -50,7 +50,7 @@ So that's _thirteen cables_, going all over the place.  Every bit the mount move
 
 The plan was to control the rig with a remote-controlled micro computer, and run a separate dew heater. 
 
-These micro computers, such as the [Intel NUC](https://amzn.to/2Of8lBh), tend to come "bare bones".  They don't have drives, RAM, or an operating system.  You can buy bundles but I planned to cobble it together myself (parts list below).  The NUC only has four USB ports, which isn't enough, so I would also need a [quality USB hub](https://amzn.to/2R81rMF).  I was opting for the windows 10 "pro" variety, which has [Remote Desktop](https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps) built in.  You can get away with other remote software, such as [TightVNC](https://tightvnc.com) or [TeamViewer](https://www.teamviewer.us).  If you use the alternatives mentioned you can get away with the "home" flavor.
+These micro computers, such as the [Intel NUC](https://www.amazon.com/Intel-mini-NUC7i5BNK-Core-version/dp/B01N4EP1N0), tend to come "bare bones".  They don't have drives, RAM, or an operating system.  You can buy bundles but I planned to cobble it together myself (parts list below).  The NUC only has four USB ports, which isn't enough, so I would also need a [quality USB hub](https://www.amazon.com/gp/product/B06ZZ7NDTG).  I was opting for the windows 10 "pro" variety, which has [Remote Desktop](https://www.microsoft.com/en-us/p/microsoft-remote-desktop/9wzdncrfj3ps) built in.  You can get away with other remote software, such as [TightVNC](https://tightvnc.com) or [TeamViewer](https://www.teamviewer.us).  If you use the alternatives mentioned you can get away with the "home" flavor.
 
 <figure style="width: 200px" class="align-left">
   <img src="{{ site.url }}{{ site.baseurl }}/assets/images/posts/rigrunner.jpg" alt="">
@@ -64,19 +64,19 @@ For power, the plan was to run a RIGrunner 4008 setup with Anderson powerpoles c
 </figure> 
 I didn't know anything about dew heaters.  I poked around and found that the [Kendrick](http://www.kendrickastro.com) brand was pretty respected.  You need a controller and the actual heaters.  For the controller, I chose the DigiFire 8.  This was overkill because I didn't need four dew heaters, but it works with just two.  I also had to grab a couple dew _straps_.  These just plug into the controller, then wrap around the OTA and guidescope.  The whole purpose here is to keep the optics above the dew point.
 
-Another essential item in cable management is a [label maker](https://amzn.to/2Ookvre).  I love the Epson one, simply because of the labels themselves- they have a split back which makes them very easy to peel.  I had an older Brother one, I think.  The paper was a real pain to peel.
+Another essential item in cable management is a [label maker](https://www.amazon.com/gp/product/B005J7Y6GS).  I love the Epson one, simply because of the labels themselves- they have a split back which makes them very easy to peel.  I had an older Brother one, I think.  The paper was a real pain to peel.
 
 ### NUC Parts List
 
 This list is definitely flexible - you can opt for less RAM, less storage, an i3 rather than i5 chip, or even a different vendor.  As I said, you can also buy a bundle.
 
-- [The NUC itself](https://amzn.to/2OmU0CL) ($350)
+- [The NUC itself](https://www.amazon.com/dp/B01N4EP1N0) ($350)
   - (You can get a slim or tall version - the difference is that the slim uses different storage)
-- [16GB RAM](https://amzn.to/2OszIrH) ($150)
+- [16GB RAM](https://www.amazon.com/Crucial-PC4-19200-SODIMM-260-Pin-Memory/dp/B01BIWMWVS) ($150)
   - The price of RAM fluctuates quite a bit
-- [Disk Storage](https://amzn.to/2xL7JJQ) ($155)
-- [Windows 10 pro usb](https://amzn.to/2IpJUeQ)($190)
-- [USB Hub](https://amzn.to/2IpKLfy) ($75)
+- [Disk Storage](https://www.amazon.com/Samsung-960-EVO-Internal-MZ-V6E250BW/dp/B01M20VBU7) ($155)
+- [Windows 10 pro usb](https://www.amazon.com/Microsoft-Windows-English-Flash-Drive/dp/B075PZ12B2)($190)
+- [USB Hub](https://www.amazon.com/gp/product/B06ZZ7NDTG) ($75)
   
 Which comes to $920.  You can hunt around for a deal.
 
@@ -84,14 +84,14 @@ Which comes to $920.  You can hunt around for a deal.
 
 This is not an exaustive list - just enough to get you started
 
-- [Crimp](https://amzn.to/2xMJ1J6)
+- [Crimp](https://www.amazon.com/TC-1-Ratcheting-Crimper-Powerpole-Connectors/dp/B00F1OUD5W)
 - [Power Supply](https://powerwerx.com/ss30dv-desktop-dc-power-supply-powerpole) ($120)
   - There are some similar to this on Amazon, but most of the ones that I found there don't put out the full 30A to each output
-- [RIGrunner 4008](https://amzn.to/2Nf0PBS)($145)
+- [RIGrunner 4008](https://www.amazon.com/RR-4008-C-RIGRUNNER-Power-Panel-Complete/dp/B00S8JN0MA)($145)
 - Various [meters](https://powerwerx.com/digital-meters)
-- [Connectors](https://amzn.to/2xLfL5L)
+- [Connectors](https://www.amazon.com/Powerpole-Connectors-Assortment-Disconnect-Unassembled/dp/B07CB121LL)
 
-Whatever wiring solution you choose, you can't go wrong with some [braided cord sleeve](https://amzn.to/2OjSXmX) -- buy two :wink:, and grab some small black zip ties.
+Whatever wiring solution you choose, you can't go wrong with some [braided cord sleeve](https://www.amazon.com/gp/product/B004UHQMYW) -- buy two :wink:, and grab some small black zip ties.
 
 ## Stop the presses.  Change Course.  New Plan
 

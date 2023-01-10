@@ -78,7 +78,7 @@ Now, before you say it - I know that with this camera / telescope combination I 
 
 ## The Guider
 
-This is another area where there weren't many contenders.  This basically came down to ZWO's [ASI290 Mini   (~$325)](https://amzn.to/2OhqdLQ), and the [Starlight Xpress Lodestar X2 Autoguider(~$565)](https://amzn.to/2Qc9PJE).  Spec-wise, they were similar enough, so, frankly, I just went with the cheaper option.  Yay, more red.
+This is another area where there weren't many contenders.  This basically came down to ZWO's [ASI290 Mini   (~$325)](https://www.amazon.com/ZWO-Optical-ASI290MM-MINI-Monochrome-Astronomy/dp/B07BPP91VN), and the [Starlight Xpress Lodestar X2 Autoguider(~$565)](https://www.amazon.com/Starlight-Xpress-Lodestar-X2-Autoguider/dp/B00NMPA5MI).  Spec-wise, they were similar enough, so, frankly, I just went with the cheaper option.  Yay, more red.
 
 I opted for on-axis guiding--  my refractor is fast and fairly short, so I have hopes that I can get it working.  Worst case scenario, I switch to off-axis and get rid of my 1/2" spacer in my train.
 

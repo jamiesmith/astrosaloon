@@ -44,13 +44,12 @@ Google Adsense, a third party affiliate marketing network, uses cookies to help 
 
 I (try to) make money on this website through affiliate programs. If you click an affiliate link or ad banner and buy the product, you help support this website because I'll get a percentage of that sale.
 
-Currently I'm an affiliate for Amazon and Google Adsense.
+Currently I'm an affiliate for Google Adsense (but I don't run ads, as this site is stalled).
 
 What this means for you:
 
-* I became an affiliate to earn revenue towards the costs of running and maintaining this website. Where I have direct control over which ads are served on this website I offer only products that are directly related to the topic of this website and products that a reader/subscriber would have a genuine interest in or need of
 * I do not and will not recommend a product just for the sake of making money
-* I do not let the compensation I receive influence the content, topics, posts, or opinions expressed on this website
+* I do not receive any compensation for anything I link to, nor does anyone influence the content, topics, posts, or opinions expressed on this website
 * I respect and value my readers too much to write anything other than my own genuine and objective opinions and advice
 
 Just like this website, my Disclosure Policy is a work in progress. As the revenue streams evolve, so will this page.

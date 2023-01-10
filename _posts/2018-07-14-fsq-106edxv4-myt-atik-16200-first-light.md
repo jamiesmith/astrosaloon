@@ -40,7 +40,7 @@ The tripod "feet" are actually articulated, so they help sit flat on a _somewhat
 
 I got the legs fully extened, and the tripod facing (what I thought was) true north.  I put on the actual mount.  What I learned here is that no matter how far the legs are extended, and how level the tripod is, once you put on ~80lbs of gear (mount, imaging train, counterweights) the tripod will _settle_.  Not sag, not droop, but the legs will splay out a little more.  Luckly, I caught this and was able to quickly re-level.
 
-This is where a good torpedo level comes in.  I got [this one](https://amzn.to/2DR8iHL) from Amazon, but you can get one from Lowe's, Home Depot, etc.  Just make sure that it's set up like the one that I got so you can see the level indicator from any angle.  Also make sure that you get one that doesn't have magnets _protruding_ from the bottom.  If it isn't flush don't trust it.  Your mount will vary, but I was able to put it across the mount/tripod connecting bolts along each plane.
+This is where a good torpedo level comes in.  I got [this one](https://www.amazon.com/gp/product/B001O1SRDG) from Amazon, but you can get one from Lowe's, Home Depot, etc.  Just make sure that it's set up like the one that I got so you can see the level indicator from any angle.  Also make sure that you get one that doesn't have magnets _protruding_ from the bottom.  If it isn't flush don't trust it.  Your mount will vary, but I was able to put it across the mount/tripod connecting bolts along each plane.
 
 ## Assemble the rest
 

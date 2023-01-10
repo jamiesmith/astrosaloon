@@ -21,7 +21,7 @@ Over the next couple of  ~~days~~ weeks I will go through a set of "unboxing pos
 
 Keep in mind as you read these (if, in fact, anyone does) that I am really new to all of this.  I hope to catalog my journey, my progress, and my mistakes.  Hopefully as I go the former will start to outweigh the latter :wink:.
 
-I knew that my wife wouldn't let me buy this stuff _again_; I had to do it right.  She is a [portrait & pet photographer](https://www.akbsphoto.com), so she is often "gear shopping" (in fact I know that earlier today she was looking at the [Nikon 105mm f/1.4E](https://amzn.to/2xPwZht) lens), so she does understand.  To an extent.  
+I knew that my wife wouldn't let me buy this stuff _again_; I had to do it right.  She is a [portrait & pet photographer](https://www.akbsphoto.com), so she is often "gear shopping" (in fact I know that earlier today she was looking at the [Nikon 105mm f/1.4E](https://www.amazon.com/gp/product/B01J4S9YRI) lens), so she does understand.  To an extent.  
 
 I had a bullet list of the bigger things that I needed:
 

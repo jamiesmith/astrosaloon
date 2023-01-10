@@ -8,7 +8,7 @@ header:
 
 Fast forward a few years... 
 
-My second scope, purchased in 2012, was an [8" Celestron CPC Edge HD](https://amzn.to/2DquKqQ).  This was a beautiful telescope.  It was much easier to align than the ETX-90 was, and its longer focal length was fantastic for planets and the moon.  
+My second scope, purchased in 2012, was an [8" Celestron CPC Edge HD](https://www.amazon.com/gp/product/B005FY4N4U).  This was a beautiful telescope.  It was much easier to align than the ETX-90 was, and its longer focal length was fantastic for planets and the moon.  
 
 <!--more-->
 
